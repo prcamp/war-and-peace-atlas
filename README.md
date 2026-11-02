@@ -4,11 +4,13 @@ A responsive reading companion for the complete Louise and Aylmer Maude translat
 
 ## Hosting on GitHub Pages
 
-This repository contains the actual static application, not a link to an externally hosted site. `.github/workflows/pages.yml` validates the source and publishes `dist/` to GitHub Pages on every push to `main` or manual workflow run.
+Open the dashboard: https://prcamp.github.io/war-and-peace-atlas/dist/
 
-One-time repository setting: **Settings → Pages → Build and deployment → Source → GitHub Actions**. Then run **Actions → Publish reading atlas → Run workflow** if the first push ran before Pages was enabled.
+The project root https://prcamp.github.io/war-and-peace-atlas/ forwards to the dashboard, preserving query parameters and the selected view.
 
-Expected project URL after successful publication: https://prcamp.github.io/war-and-peace-atlas/
+Both supported Pages sources now publish the same URL layout: a root entry point and the application under `dist/`. The root `index.html` and `.nojekyll` also make branch-based publication from `main / (root)` work instead of displaying this README. The Actions workflow validates the app and stages that same layout in `_site/`.
+
+Recommended setting: **Settings → Pages → Build and deployment → Source → GitHub Actions**. This avoids redundant branch-based deployments, but either source serves the dashboard correctly.
 
 ## Local development
 
