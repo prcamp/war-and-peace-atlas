@@ -19,7 +19,7 @@ vm.runInContext("state.horizon=1;filters.query='Karataev';",context);assert(vm.r
 vm.runInContext("state.horizon=163;filters.character='anatole';filters.query='married';",context);assert(vm.runInContext('queryResults()',context).includes('Read in context'));
 console.log('PASS: 365 chapters; 111 editorial source references; nine views at seven horizons; future-text query exclusion; compound query.');
 // Regression: previews cannot disclose locked characters or source passages.
-vm.runInContext("state.horizon=1;filters.character='';filters.graph='relations';filters.graphPage=0;",context);
+vm.runInContext("state.horizon=1;filters.character='';filters.graph='relations';filters.networkKind='relations';",context);
 assert.equal(vm.runInContext("peekCharacterContent('pierre')",context),'');
 const peekHtml=vm.runInContext("peekCharacterContent('vasili')",context);
 assert(peekHtml.includes('preview evidence'));assert(!peekHtml.includes('data-action="source"'));
@@ -27,34 +27,38 @@ assert(!peekHtml.includes('data-action="pivot"'));
 for(const m of peekHtml.matchAll(/data-chapter="(\d+)"/g))assert(+m[1]<=1);
 assert(!vm.runInContext('constellation()',context).includes('data-action="character"'));
 assert(!vm.runInContext('constellation()',context).includes('<line'));
-vm.runInContext("state.horizon=365;filters.graph='mentions';filters.character='karataev';filters.graphPage=0;",context);
+vm.runInContext("state.horizon=365;filters.graph='mentions';filters.networkKind='mentions';filters.character='karataev';",context);
 const graphFirst=vm.runInContext('connectionsView()',context);
-assert(graphFirst.includes('data-action="peek-character" aria-haspopup="dialog" aria-expanded="false" data-id="karataev"'));
-vm.runInContext("filters.character='napoleon';filters.graphPage=1;",context);
+assert(graphFirst.includes('data-id="karataev"'));assert(!graphFirst.includes('graphNext'));
+vm.runInContext("filters.character='napoleon';",context);
 const graphSecond=vm.runInContext('connectionsView()',context);
-assert(graphSecond.includes('data-id="napoleon"'));assert(graphSecond.includes('Page 2 /'));
+assert(graphSecond.includes('data-id="napoleon"'));assert(!graphSecond.includes('graphPrev'));assert.equal(vm.runInContext('networkSlice().drawn.length',context),vm.runInContext('semanticEdges().length',context));
 assert.equal(vm.runInContext("knowledgeRole(E.knowledge.find(k=>k.id==='k10'))",context),'Explicitly unaware at this passage');
 assert.equal(vm.runInContext("knowledgeRole(E.knowledge.find(k=>k.id==='k20'))",context),'Mistaken belief at this passage');
-console.log('PASS: chapter-gated inline previews; no implicit navigation; no decorative relationship lines; paginated focal-node retention; epistemic role distinctions.');
+console.log('PASS: chapter-gated inline previews; no implicit navigation; no decorative relationship lines; complete focused networks; epistemic role distinctions.');
 // Explicit identity collision: the old prince is not Nicholas Rostov.
 assert(!data.index.characters.find(c=>c.id==='nikolai').hits.find(h=>h.chapter===25)?.paragraphs.includes(0));
 vm.runInContext('state.horizon=365;',context);
 assert(!vm.runInContext("linkedText('Prince Nicholas Andreevich Bolkonski')",context).includes('data-id="nikolai"'));
 context.window={matchMedia:()=>({matches:true})};
-vm.runInContext("filters.character='';filters.graph='relations';filters.graphPage=0;",context);
+vm.runInContext("filters.character='';filters.graph='relations';filters.networkKind='relations';",context);
 const mobileGraph=vm.runInContext('connectionsView()',context);
-assert.equal([...mobileGraph.matchAll(/class="graph-node"/g)].length,8);
-assert(mobileGraph.includes('viewBox="0 0 380 460"'));
-assert(mobileGraph.includes('r="26" fill="transparent"'));
-console.log('PASS: Nicholas identity collision; eight-node mobile viewport; enlarged mobile hit targets.');
+assert.equal([...mobileGraph.matchAll(/class="graph-node"/g)].length,data.index.characters.filter(c=>c.first<=365).length);
+assert(mobileGraph.includes('Fit all'));assert(mobileGraph.includes('id="networkCanvas"'));
+assert(mobileGraph.includes('r="28" fill="transparent"'));
+console.log('PASS: Nicholas identity collision; all-character mobile viewport; enlarged mobile hit targets.');
 // Network projections preserve restriction and source identity.
 for(const o of data.locations.observations){assert(data.text.chapters[o.chapter-1]?.paragraphs[o.paragraph]);assert(data.index.characters.some(c=>c.id===o.character));assert(data.index.places.some(p=>p.id===o.place));}
 for(const h of [1,2,28,94,163,260,365]){
  vm.runInContext(`state.horizon=${h};filters.character='';filters.place='';`,context);
  for(const kind of ['relations','family','courtship','social','conflict','military','information','mentions','places']){
-  vm.runInContext(`filters.networkKind='${kind}';filters.graphPage=0;`,context);
+  vm.runInContext(`filters.networkKind='${kind}';`,context);
   const edges=vm.runInContext('semanticEdges()',context);assert(edges.every(e=>e.chapter<=h));
-  assert(vm.runInContext('networkSlice().nodes.length<=8',context));
+  const slice=vm.runInContext('networkSlice()',context);
+  assert.equal(slice.drawn.length,edges.length);assert(edges.every(e=>slice.nodes.includes(e.from)&&slice.nodes.includes(e.to)));
+  for(const c of data.index.characters)assert.equal(slice.nodes.includes(c.id),c.first<=h);
+  const html=vm.runInContext('networkWorkspace()',context);assert.equal([...html.matchAll(/class="graph-node"/g)].length,slice.nodes.length);assert(!/graphPrev|graphNext/.test(html));
+  const layout=vm.runInContext('networkLayout(networkSlice())',context);assert(layout.pts.every(p=>Number.isFinite(p.x)&&Number.isFinite(p.y)&&p.x>=0&&p.x<=layout.w&&p.y>=0&&p.y<=layout.h));
   assert(!vm.runInContext('networkWorkspace()',context).includes('undefined'));
  }
  assert(!vm.runInContext('movementAtlas()',context).includes('undefined'));
@@ -65,7 +69,7 @@ vm.runInContext("state.horizon=1;filters.character='karataev';",context);
 assert.equal(vm.runInContext('semanticEdges().length',context),0);
 assert(!vm.runInContext('networkWorkspace()',context).includes('Platon Karataev'));
 assert.equal([...vm.runInContext('universalTimeline()',context).matchAll(/data-action="timelineJump"/g)].length,365);
-console.log('PASS: nine network kinds across seven horizons; sourced location references; mobile node limit; selection-preserving location projection; locked identity; 365 chapter ticks.');
+console.log('PASS: nine network kinds across seven horizons; sourced location references; complete mobile networks; selection-preserving location projection; locked identity; 365 chapter ticks.');
 // Chapter setting atlas: exhaustive chapter classification, no future evidence.
 assert.equal(data.settings.chapters.length,365);
 assert.equal(new Set(data.settings.chapters.map(c=>c.chapter)).size,365);
@@ -95,3 +99,10 @@ mapSvg.onpointerdown({pointerId:1,clientX:100,clientY:100});mapSvg.onpointerdown
 mapSvg.onpointerup({pointerId:2});mapSvg.onpointerup({pointerId:1});controls[2].onclick({stopPropagation(){}});
 controls[0].onclick({stopPropagation(){}});assert.equal(+mapAttrs.viewBox.split(' ')[2],234);
 console.log('PASS: drag-pan, two-pointer pinch, zoom control, fit reset.');
+
+
+// Network uses the same tested pan/pinch/fit implementation with its own canvas.
+vm.runInContext('bindAtlasMap',context)(mapSvg,{querySelectorAll(){return controls}});
+controls[0].onclick({stopPropagation(){}});assert.equal(+mapAttrs.viewBox.split(' ')[2],234);
+controls[2].onclick({stopPropagation(){}});assert.equal(mapAttrs.viewBox,'0 0 360 390');
+console.log('PASS: network zoom and fit; all nodes and every edge retained across layers and horizons.');

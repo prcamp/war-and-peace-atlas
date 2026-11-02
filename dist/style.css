@@ -16,3 +16,11 @@ html{scroll-padding-top:180px}body{overflow-x:hidden}.workspace-main,.workspace-
 @media(max-width:760px){input:not([type=range]),select,textarea{font-size:16px!important}.chapter-jump>div{max-width:calc(100vw - 30px)}.workspace-heading{flex-wrap:wrap}.network-toolbar label{min-width:min(145px,100%)}.network-canvas svg{max-height:none}.node-popover{max-width:calc(100vw - 24px)}.setting-card{flex-wrap:wrap}.setting-card>div{flex-basis:230px}.map-tools button{min-height:44px;min-width:44px}.reader{overflow-wrap:break-word}.relationship-row{flex-wrap:wrap}}
 @media(min-width:761px){.continuous-map{max-width:1200px;margin-inline:auto}.setting-cards{grid-template-columns:repeat(auto-fit,minmax(330px,1fr))}.workspace-heading h1{font-size:42px}.network-toolbar label{flex:0 1 auto}}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition:none!important;animation:none!important}}
+
+
+/* The full network shares one navigable canvas at every screen size. */
+.network-tools{display:flex;align-items:center;gap:8px;padding:10px 12px;border-bottom:1px solid #d6dfcb;flex-wrap:wrap}
+.network-tools button{min-width:44px;min-height:44px}.network-tools small{color:var(--muted);margin-left:auto;font-size:10px}
+#networkCanvas{height:560px;max-height:none;touch-action:none;cursor:grab}#networkCanvas:active{cursor:grabbing}
+#networkCanvas .graph-node{cursor:pointer}#networkCanvas:focus-visible{outline:2px solid var(--green);outline-offset:-3px}
+@media(max-width:760px){#networkCanvas{height:450px}.network-tools small{font-size:9px}}
