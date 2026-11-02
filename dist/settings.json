@@ -1,0 +1,5085 @@
+{
+  "methodology": "Editorial chapter settings grounded in the Maude text. Earlier evidence anchors support explicit scene continuity. Place mentions alone are not settings. Town coordinates are reference points, not exact premises. Unlocated and fictional settings remain unpinned.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Anna Pavlovna’s reception",
+          "paragraph": 1,
+          "evidenceChapter": 1,
+          "note": "The cited passage establishes the chapter setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 2,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Anna Pavlovna’s reception",
+          "paragraph": 1,
+          "evidenceChapter": 1,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 3,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Anna Pavlovna’s reception",
+          "paragraph": 1,
+          "evidenceChapter": 1,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 4,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Anna Pavlovna’s reception",
+          "paragraph": 1,
+          "evidenceChapter": 1,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 5,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Anna Pavlovna’s reception",
+          "paragraph": 1,
+          "evidenceChapter": 1,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 6,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · reception and Prince Andrew’s home",
+          "paragraph": 1,
+          "evidenceChapter": 1,
+          "note": "The guests leave Anna’s reception; Pierre visits Prince Andrew in the same city."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 7,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Prince Andrew’s home",
+          "paragraph": 1,
+          "evidenceChapter": 1,
+          "note": "The conversation continues at Andrew’s home after the Petersburg reception."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 8,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Prince Andrew’s home",
+          "paragraph": 1,
+          "evidenceChapter": 1,
+          "note": "The conversation continues at Andrew’s home after the Petersburg reception."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 9,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Anatole’s rooms",
+          "paragraph": 1,
+          "evidenceChapter": 1,
+          "note": "Pierre travels across the city from Andrew’s home to Anatole’s drinking party; the northern summer night is described in this chapter."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 10,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Rostov house on Povarskaya",
+          "paragraph": 1,
+          "evidenceChapter": 10,
+          "note": "The cited passage establishes the chapter setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 11,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Rostov house on Povarskaya",
+          "paragraph": 1,
+          "evidenceChapter": 10,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 12,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Rostov house on Povarskaya",
+          "paragraph": 1,
+          "evidenceChapter": 10,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 13,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Rostov house on Povarskaya",
+          "paragraph": 1,
+          "evidenceChapter": 10,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 14,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Rostov house on Povarskaya",
+          "paragraph": 1,
+          "evidenceChapter": 10,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 15,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Count Bezukhov’s house",
+          "paragraph": 1,
+          "evidenceChapter": 10,
+          "note": "The scene shifts within Moscow from the Rostovs to Count Bezukhov’s house."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 16,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Count Bezukhov’s house",
+          "paragraph": 0,
+          "evidenceChapter": 16,
+          "note": "The chapter’s narrated scene is set here."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 17,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Rostov house",
+          "paragraph": 1,
+          "evidenceChapter": 10,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 18,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Rostov house",
+          "paragraph": 1,
+          "evidenceChapter": 10,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 19,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Rostov house",
+          "paragraph": 1,
+          "evidenceChapter": 10,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 20,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Rostov house",
+          "paragraph": 1,
+          "evidenceChapter": 10,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 21,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Count Bezukhov’s house",
+          "paragraph": 0,
+          "evidenceChapter": 21,
+          "note": "The cited passage establishes the chapter setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 22,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Count Bezukhov’s house",
+          "paragraph": 0,
+          "evidenceChapter": 21,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 23,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Count Bezukhov’s house",
+          "paragraph": 0,
+          "evidenceChapter": 21,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 24,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Count Bezukhov’s house",
+          "paragraph": 0,
+          "evidenceChapter": 21,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 25,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · Bolkonski estate",
+          "paragraph": 0,
+          "evidenceChapter": 25,
+          "note": "The cited passage establishes the chapter setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 26,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · Bolkonski estate",
+          "paragraph": 0,
+          "evidenceChapter": 25,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 27,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · Bolkonski estate",
+          "paragraph": 0,
+          "evidenceChapter": 25,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 28,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · Bolkonski estate",
+          "paragraph": 0,
+          "evidenceChapter": 25,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 29,
+      "settings": [
+        {
+          "place": "braunau",
+          "label": "Braunau · Russian headquarters and review ground",
+          "paragraph": 0,
+          "evidenceChapter": 29,
+          "note": "The cited passage establishes the chapter setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 30,
+      "settings": [
+        {
+          "place": "braunau",
+          "label": "Braunau · Russian headquarters and review ground",
+          "paragraph": 0,
+          "evidenceChapter": 29,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 31,
+      "settings": [
+        {
+          "place": "braunau",
+          "label": "Braunau · Russian headquarters and review ground",
+          "paragraph": 0,
+          "evidenceChapter": 29,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 32,
+      "settings": [
+        {
+          "place": "braunau",
+          "label": "Salzeneck · quarters two miles from Braunau",
+          "paragraph": 0,
+          "evidenceChapter": 32,
+          "note": "The text places the fictional/local village quarters two miles from Braunau; a Braunau pin is regional context, not an exact village coordinate."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 33,
+      "settings": [
+        {
+          "place": "braunau",
+          "label": "Salzeneck · quarters two miles from Braunau",
+          "paragraph": 0,
+          "evidenceChapter": 32,
+          "note": "The text places the fictional/local village quarters two miles from Braunau; a Braunau pin is regional context, not an exact village coordinate."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 34,
+      "settings": [
+        {
+          "place": "enns",
+          "label": "Enns · town and bridge",
+          "paragraph": 0,
+          "evidenceChapter": 34,
+          "note": "The cited passage establishes the chapter setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 35,
+      "settings": [
+        {
+          "place": "enns",
+          "label": "Enns · town and bridge",
+          "paragraph": 0,
+          "evidenceChapter": 34,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 36,
+      "settings": [
+        {
+          "place": "enns",
+          "label": "Enns · town and bridge",
+          "paragraph": 0,
+          "evidenceChapter": 34,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 37,
+      "settings": [
+        {
+          "place": "krems",
+          "label": "Krems · army headquarters",
+          "paragraph": 2,
+          "evidenceChapter": 37,
+          "note": "Andrew leaves headquarters at Krems with dispatches; the chapter then follows his journey to Brünn."
+        },
+        {
+          "place": "brunn",
+          "label": "Brünn · Austrian court",
+          "paragraph": 10,
+          "evidenceChapter": 37,
+          "note": "Andrew arrives in Brünn and reports at the palace."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 38,
+      "settings": [
+        {
+          "place": "brunn",
+          "label": "Brünn · Bilíbin’s house and Austrian court",
+          "paragraph": 0,
+          "evidenceChapter": 38,
+          "note": "The cited passage establishes the chapter setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 39,
+      "settings": [
+        {
+          "place": "brunn",
+          "label": "Brünn · Bilíbin’s house and Austrian court",
+          "paragraph": 0,
+          "evidenceChapter": 38,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 40,
+      "settings": [
+        {
+          "place": "brunn",
+          "label": "Brünn · Bilíbin’s house and Austrian court",
+          "paragraph": 0,
+          "evidenceChapter": 38,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 41,
+      "settings": [
+        {
+          "place": "hetzelsdorf-road",
+          "label": "Road near Hetzelsdorf · retreating army",
+          "paragraph": 1,
+          "evidenceChapter": 41,
+          "note": "Andrew joins the obstructed retreat road near Hetzelsdorf; no precise point is asserted."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 42,
+      "settings": [
+        {
+          "place": "hollabrunn",
+          "label": "Hollabrünn · rear-guard position",
+          "paragraph": 4,
+          "evidenceChapter": 42,
+          "note": "Military overview follows Bagration to Hollabrünn while Kutuzov retreats toward Znaim."
+        }
+      ],
+      "mode": "historical"
+    },
+    {
+      "chapter": 43,
+      "settings": [
+        {
+          "place": "schongraben",
+          "label": "Schöngrabern · Grunth and battlefield",
+          "paragraph": 0,
+          "evidenceChapter": 43,
+          "note": "Scenes follow the rear guard in the Grunth–Schöngrabern battlefield area. This is an area marker, not a precise troop position."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 44,
+      "settings": [
+        {
+          "place": "schongraben",
+          "label": "Schöngrabern · Russian battery position",
+          "paragraph": 1,
+          "evidenceChapter": 44,
+          "note": "The chapter’s narrated scene is set here."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 45,
+      "settings": [
+        {
+          "place": "schongraben",
+          "label": "Schöngrabern · Grunth and battlefield",
+          "paragraph": 0,
+          "evidenceChapter": 43,
+          "note": "Scenes follow the rear guard in the Grunth–Schöngrabern battlefield area. This is an area marker, not a precise troop position."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 46,
+      "settings": [
+        {
+          "place": "schongraben",
+          "label": "Schöngrabern · Grunth and battlefield",
+          "paragraph": 0,
+          "evidenceChapter": 43,
+          "note": "Scenes follow the rear guard in the Grunth–Schöngrabern battlefield area. This is an area marker, not a precise troop position."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 47,
+      "settings": [
+        {
+          "place": "schongraben",
+          "label": "Schöngrabern · Grunth and battlefield",
+          "paragraph": 0,
+          "evidenceChapter": 43,
+          "note": "Scenes follow the rear guard in the Grunth–Schöngrabern battlefield area. This is an area marker, not a precise troop position."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 48,
+      "settings": [
+        {
+          "place": "schongraben",
+          "label": "Schöngrabern · Grunth and battlefield",
+          "paragraph": 0,
+          "evidenceChapter": 43,
+          "note": "Scenes follow the rear guard in the Grunth–Schöngrabern battlefield area. This is an area marker, not a precise troop position."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 49,
+      "settings": [
+        {
+          "place": "schongraben",
+          "label": "Schöngrabern · Grunth and battlefield",
+          "paragraph": 0,
+          "evidenceChapter": 43,
+          "note": "Scenes follow the rear guard in the Grunth–Schöngrabern battlefield area. This is an area marker, not a precise troop position."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 50,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Pierre’s inheritance affairs",
+          "paragraph": 6,
+          "evidenceChapter": 50,
+          "note": "The chapter begins with Pierre’s affairs in Moscow, before moving to Petersburg."
+        },
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Prince Vasili’s circle",
+          "paragraph": 11,
+          "evidenceChapter": 50,
+          "note": "Pierre’s new social life continues in Petersburg."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 51,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Prince Vasili’s house",
+          "paragraph": 11,
+          "evidenceChapter": 50,
+          "note": "The next chapter continues Pierre’s stay with Prince Vasili in Petersburg."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 52,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · Bolkonski estate",
+          "paragraph": 0,
+          "evidenceChapter": 25,
+          "note": "Vasili and Anatole visit the Bolkonski country household established at Bald Hills."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 53,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · Bolkonski estate",
+          "paragraph": 0,
+          "evidenceChapter": 25,
+          "note": "Vasili and Anatole visit the Bolkonski country household established at Bald Hills."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 54,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · Bolkonski estate",
+          "paragraph": 0,
+          "evidenceChapter": 25,
+          "note": "Vasili and Anatole visit the Bolkonski country household established at Bald Hills."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 55,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Rostov household",
+          "paragraph": 1,
+          "evidenceChapter": 10,
+          "note": "The family receives Nicholas’s letter at home; Moscow is the established household setting in this narrative period."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 56,
+      "settings": [
+        {
+          "place": "olmutz",
+          "label": "Olmütz · allied headquarters and camps",
+          "paragraph": 0,
+          "evidenceChapter": 56,
+          "note": "The cited passage establishes the chapter setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 57,
+      "settings": [
+        {
+          "place": "olmutz",
+          "label": "Olmütz · allied headquarters and camps",
+          "paragraph": 0,
+          "evidenceChapter": 56,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 58,
+      "settings": [
+        {
+          "place": "olmutz",
+          "label": "Olmütz · allied headquarters and camps",
+          "paragraph": 0,
+          "evidenceChapter": 56,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 59,
+      "settings": [
+        {
+          "place": "wischau",
+          "label": "Wischau · town and advance positions",
+          "paragraph": 19,
+          "evidenceChapter": 59,
+          "note": "The chapter’s narrated scene is set here."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 60,
+      "settings": [
+        {
+          "place": "wischau",
+          "label": "Wischau · imperial headquarters",
+          "paragraph": 0,
+          "evidenceChapter": 60,
+          "note": "The chapter opens at Wischau, then follows the army’s advance toward Austerlitz."
+        },
+        {
+          "place": "austerlitz",
+          "label": "Austerlitz · allied positions before battle",
+          "paragraph": 4,
+          "evidenceChapter": 60,
+          "note": "The army advances toward the battlefield over the next two days; the later council preparations belong to this area."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 61,
+      "settings": [
+        {
+          "place": "austerlitz",
+          "label": "Austerlitz · allied headquarters and outposts",
+          "paragraph": 4,
+          "evidenceChapter": 60,
+          "note": "The council of war and night outposts continue the preparations before Austerlitz; no exact headquarters coordinate is claimed."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 62,
+      "settings": [
+        {
+          "place": "austerlitz",
+          "label": "Austerlitz · allied headquarters and outposts",
+          "paragraph": 4,
+          "evidenceChapter": 60,
+          "note": "The council of war and night outposts continue the preparations before Austerlitz; no exact headquarters coordinate is claimed."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 63,
+      "settings": [
+        {
+          "place": "austerlitz",
+          "label": "Austerlitz · battlefield",
+          "paragraph": 4,
+          "evidenceChapter": 60,
+          "note": "The morning march continues the preceding preparations for battle."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 64,
+      "settings": [
+        {
+          "place": "pratzen",
+          "label": "Pratzen · Austerlitz battlefield",
+          "paragraph": 0,
+          "evidenceChapter": 64,
+          "note": "The chapter follows action across the Austerlitz battlefield around the Pratzen heights; marker is an area reference."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 65,
+      "settings": [
+        {
+          "place": "pratzen",
+          "label": "Pratzen · Austerlitz battlefield",
+          "paragraph": 0,
+          "evidenceChapter": 64,
+          "note": "The chapter follows action across the Austerlitz battlefield around the Pratzen heights; marker is an area reference."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 66,
+      "settings": [
+        {
+          "place": "pratzen",
+          "label": "Pratzen · Austerlitz battlefield",
+          "paragraph": 0,
+          "evidenceChapter": 64,
+          "note": "The chapter follows action across the Austerlitz battlefield around the Pratzen heights; marker is an area reference."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 67,
+      "settings": [
+        {
+          "place": "pratzen",
+          "label": "Pratzen · Austerlitz battlefield",
+          "paragraph": 0,
+          "evidenceChapter": 64,
+          "note": "The chapter follows action across the Austerlitz battlefield around the Pratzen heights; marker is an area reference."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 68,
+      "settings": [
+        {
+          "place": "pratzen",
+          "label": "Pratzen · Austerlitz battlefield",
+          "paragraph": 0,
+          "evidenceChapter": 64,
+          "note": "The chapter follows action across the Austerlitz battlefield around the Pratzen heights; marker is an area reference."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 69,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Rostov household and English Club",
+          "paragraph": 0,
+          "evidenceChapter": 69,
+          "note": "The cited passage establishes the chapter setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 70,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Rostov household and English Club",
+          "paragraph": 0,
+          "evidenceChapter": 69,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 71,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Rostov household and English Club",
+          "paragraph": 0,
+          "evidenceChapter": 69,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 72,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · English Club and Sokolniki forest",
+          "paragraph": 26,
+          "evidenceChapter": 72,
+          "note": "The quarrel begins at the English Club; the chapter then moves to the duel ground in Sokolniki forest, on Moscow’s edge."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 73,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Sokolniki forest",
+          "paragraph": 26,
+          "evidenceChapter": 72,
+          "note": "The duel continues at the forest clearing established in the previous chapter."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 74,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Bezukhov house",
+          "paragraph": 0,
+          "evidenceChapter": 74,
+          "note": "Pierre returns to the room in his father’s Moscow house after the duel."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 75,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · Bolkonski household",
+          "paragraph": 0,
+          "evidenceChapter": 75,
+          "note": "The cited passage establishes the chapter setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 76,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · Bolkonski household",
+          "paragraph": 0,
+          "evidenceChapter": 75,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 77,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · Bolkonski household",
+          "paragraph": 0,
+          "evidenceChapter": 75,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 78,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Rostov circle",
+          "paragraph": 0,
+          "evidenceChapter": 78,
+          "note": "The cited passage establishes the chapter setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 79,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Rostov house",
+          "paragraph": 0,
+          "evidenceChapter": 78,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 80,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Iogel’s ball",
+          "paragraph": 0,
+          "evidenceChapter": 78,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 81,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · English Hotel",
+          "paragraph": 0,
+          "evidenceChapter": 78,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 82,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · English Hotel",
+          "paragraph": 0,
+          "evidenceChapter": 78,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 83,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Rostov house",
+          "paragraph": 0,
+          "evidenceChapter": 78,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 84,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Rostov house",
+          "paragraph": 0,
+          "evidenceChapter": 78,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 85,
+      "settings": [
+        {
+          "place": "torzhok",
+          "label": "Torzhok · post station",
+          "paragraph": 0,
+          "evidenceChapter": 85,
+          "note": "The cited passage establishes the chapter setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 86,
+      "settings": [
+        {
+          "place": "torzhok",
+          "label": "Torzhok · post station",
+          "paragraph": 0,
+          "evidenceChapter": 85,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 87,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Pierre’s home and society",
+          "paragraph": 0,
+          "evidenceChapter": 87,
+          "note": "The cited passage establishes the chapter setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 88,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Masonic lodge",
+          "paragraph": 0,
+          "evidenceChapter": 87,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 89,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Pierre’s home and society",
+          "paragraph": 0,
+          "evidenceChapter": 87,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 90,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Anna Pavlovna’s reception",
+          "paragraph": 0,
+          "evidenceChapter": 87,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 91,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Anna Pavlovna’s reception",
+          "paragraph": 0,
+          "evidenceChapter": 87,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 92,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · nursery",
+          "paragraph": 5,
+          "evidenceChapter": 92,
+          "note": "After describing the family’s changing lives, the chapter settles in the nursery at Bald Hills."
+        },
+        {
+          "place": "bogucharovo",
+          "label": "Bogucharovo · Andrew’s estate",
+          "paragraph": 3,
+          "evidenceChapter": 92,
+          "note": "The chapter also summarizes Andrew’s residence and building at Bogucharovo."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 93,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · nursery and Andrew’s rooms",
+          "paragraph": 5,
+          "evidenceChapter": 92,
+          "note": "Andrew reads a letter about the distant campaign; the physical scene remains at Bald Hills with the sick child. Locations inside the letter are reported, not present scene settings."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 94,
+      "settings": [
+        {
+          "place": "kiev",
+          "label": "Kiev and Pierre’s estates in Kiev province",
+          "paragraph": 0,
+          "evidenceChapter": 94,
+          "note": "Pierre visits Kiev and his surrounding estates. A city marker is regional context for the estate tour, not an exact estate location."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 95,
+      "settings": [
+        {
+          "place": "bogucharovo",
+          "label": "Bogucharovo · Andrew’s house",
+          "paragraph": 1,
+          "evidenceChapter": 95,
+          "note": "The chapter’s narrated scene is set here."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 96,
+      "settings": [
+        {
+          "place": "bogucharovo",
+          "label": "Road from Bogucharovo to Bald Hills · ferry",
+          "paragraph": 0,
+          "evidenceChapter": 96,
+          "note": "The conversation takes place in transit, including the ferry; endpoint markers do not reconstruct the road."
+        },
+        {
+          "place": "baldhills",
+          "label": "Road to Bald Hills",
+          "paragraph": 0,
+          "evidenceChapter": 96,
+          "note": "Destination of the carriage journey in progress, rather than a claim that the whole scene occurs at the house."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 97,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · Princess Mary’s rooms",
+          "paragraph": 0,
+          "evidenceChapter": 97,
+          "note": "The cited passage establishes the chapter setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 98,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · Princess Mary’s rooms",
+          "paragraph": 0,
+          "evidenceChapter": 97,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 99,
+      "settings": [
+        {
+          "place": "bartenstein-area",
+          "label": "Army camp near Bartenstein",
+          "paragraph": 5,
+          "evidenceChapter": 99,
+          "note": "Rostov rejoins his regiment; the text locates the concentrated army near Bartenstein, not at a precisely identified camp."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 100,
+      "settings": [
+        {
+          "place": "bartenstein-outposts",
+          "label": "Outposts beyond Bartenstein · earth hut",
+          "paragraph": 0,
+          "evidenceChapter": 100,
+          "note": "The Pavlograds are explicitly far beyond Bartenstein. Exact camp location is not specified."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 101,
+      "settings": [
+        {
+          "place": "prussian-hospital",
+          "label": "Unnamed Prussian town · military hospital",
+          "paragraph": 1,
+          "evidenceChapter": 101,
+          "note": "The hospital town is described but not named; retain the setting without inventing coordinates."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 102,
+      "settings": [
+        {
+          "place": "prussian-hospital",
+          "label": "Unnamed Prussian town · military hospital",
+          "paragraph": 1,
+          "evidenceChapter": 101,
+          "note": "The hospital town is described but not named; retain the setting without inventing coordinates."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 103,
+      "settings": [
+        {
+          "place": "tilsit",
+          "label": "Tilsit · imperial meeting and town square",
+          "paragraph": 0,
+          "evidenceChapter": 103,
+          "note": "The cited passage establishes the chapter setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 104,
+      "settings": [
+        {
+          "place": "tilsit",
+          "label": "Tilsit · imperial meeting and town square",
+          "paragraph": 0,
+          "evidenceChapter": 103,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 105,
+      "settings": [
+        {
+          "place": "tilsit",
+          "label": "Tilsit · imperial meeting and town square",
+          "paragraph": 0,
+          "evidenceChapter": 103,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 106,
+      "settings": [],
+      "mode": "historical"
+    },
+    {
+      "chapter": 107,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · Andrew’s country life",
+          "paragraph": 4,
+          "evidenceChapter": 107,
+          "note": "Opening summary describes Andrew dividing his time between Bald Hills and Bogucharovo."
+        },
+        {
+          "place": "bogucharovo",
+          "label": "Bogucharovo · Andrew’s country life",
+          "paragraph": 4,
+          "evidenceChapter": 107,
+          "note": "The opening summary places Andrew at both country estates."
+        },
+        {
+          "place": "ryazan-road",
+          "label": "Road to the Ryazan estates · oak tree",
+          "paragraph": 6,
+          "evidenceChapter": 107,
+          "note": "The active scene follows Andrew’s journey to the Ryazan estates; no precise road or oak location is given."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 108,
+      "settings": [
+        {
+          "place": "otradnoe",
+          "label": "Otradnoe · Rostov estate",
+          "paragraph": 2,
+          "evidenceChapter": 108,
+          "note": "The chapter’s narrated scene is set here."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 109,
+      "settings": [
+        {
+          "place": "ryazan-road",
+          "label": "Return road from Otradnoe · oak tree",
+          "paragraph": 1,
+          "evidenceChapter": 109,
+          "note": "Andrew returns through the same birch forest and passes the oak. The exact location is unspecified."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 110,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · official and social life",
+          "paragraph": 0,
+          "evidenceChapter": 110,
+          "note": "The cited passage establishes the chapter setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 111,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · official and social life",
+          "paragraph": 0,
+          "evidenceChapter": 110,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 112,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · official and social life",
+          "paragraph": 0,
+          "evidenceChapter": 110,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 113,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Freemasonry and Pierre’s life",
+          "paragraph": 0,
+          "evidenceChapter": 113,
+          "note": "The chapter’s narrated scene is set here."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 114,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Pierre’s home",
+          "paragraph": 10,
+          "evidenceChapter": 114,
+          "note": "The chapter begins and ends in Petersburg, with a journey to Moscow between."
+        },
+        {
+          "place": "moscow",
+          "label": "Moscow · Joseph Alexeevich’s rooms",
+          "paragraph": 8,
+          "evidenceChapter": 114,
+          "note": "Pierre’s diary explicitly dates his visit to Moscow."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 115,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Bezukhov household",
+          "paragraph": 0,
+          "evidenceChapter": 115,
+          "note": "The cited passage establishes the chapter setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 116,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Bezukhov household",
+          "paragraph": 0,
+          "evidenceChapter": 115,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 117,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Rostov household",
+          "paragraph": 4,
+          "evidenceChapter": 117,
+          "note": "The cited passage establishes the chapter setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 118,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Rostov household",
+          "paragraph": 4,
+          "evidenceChapter": 117,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 119,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Rostov household",
+          "paragraph": 4,
+          "evidenceChapter": 117,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 120,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · ball on the English Quay",
+          "paragraph": 1,
+          "evidenceChapter": 120,
+          "note": "The cited passage establishes the chapter setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 121,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · ball on the English Quay",
+          "paragraph": 1,
+          "evidenceChapter": 120,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 122,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · ball on the English Quay",
+          "paragraph": 1,
+          "evidenceChapter": 120,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 123,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · ball on the English Quay",
+          "paragraph": 1,
+          "evidenceChapter": 120,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 124,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Andrew’s rooms and Speransky’s dinner",
+          "paragraph": 0,
+          "evidenceChapter": 110,
+          "note": "The scenes continue in Petersburg after the ball, including calls, supper, and visits to the Rostovs."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 125,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Rostov household",
+          "paragraph": 0,
+          "evidenceChapter": 110,
+          "note": "The scenes continue in Petersburg after the ball, including calls, supper, and visits to the Rostovs."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 126,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Pierre’s home and Berg’s reception",
+          "paragraph": 0,
+          "evidenceChapter": 110,
+          "note": "The scenes continue in Petersburg after the ball, including calls, supper, and visits to the Rostovs."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 127,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Berg’s reception",
+          "paragraph": 0,
+          "evidenceChapter": 110,
+          "note": "The scenes continue in Petersburg after the ball, including calls, supper, and visits to the Rostovs."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 128,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Rostov household",
+          "paragraph": 0,
+          "evidenceChapter": 110,
+          "note": "The scenes continue in Petersburg after the ball, including calls, supper, and visits to the Rostovs."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 129,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · Andrew’s visit to his father",
+          "paragraph": 0,
+          "evidenceChapter": 25,
+          "note": "Andrew visits his father’s established country home before returning to Petersburg."
+        },
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Rostov household",
+          "paragraph": 4,
+          "evidenceChapter": 129,
+          "note": "Andrew returns to Petersburg three weeks later."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 130,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Rostov household",
+          "paragraph": 4,
+          "evidenceChapter": 129,
+          "note": "The visits continue after Andrew’s return to Petersburg."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 131,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · Princess Mary and her father",
+          "paragraph": 2,
+          "evidenceChapter": 131,
+          "note": "The cited passage establishes the chapter setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 132,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · Princess Mary and her father",
+          "paragraph": 2,
+          "evidenceChapter": 131,
+          "note": "Scene continues in the setting established in the cited passage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 133,
+      "settings": [
+        {
+          "place": "kremenchug",
+          "label": "Kremenchug → Kiev: Nicholas’s journey home",
+          "paragraph": 6,
+          "evidenceChapter": 133,
+          "note": "The narrator explicitly traces the first half of Nicholas’s journey from Kremenchug to Kiev."
+        },
+        {
+          "place": "kiev",
+          "label": "Kiev: journey toward home",
+          "paragraph": 6,
+          "evidenceChapter": 133,
+          "note": "A transit point on Nicholas’s journey, not his final destination."
+        },
+        {
+          "place": "otradnoe",
+          "label": "Otradnoe: the Rostov household",
+          "paragraph": 6,
+          "evidenceChapter": 133,
+          "note": "Nicholas arrives at the estate and rejoins his family."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 134,
+      "settings": [
+        {
+          "place": "otradnoe",
+          "label": "Otradnoe: the Rostov estate",
+          "paragraph": 6,
+          "evidenceChapter": 133,
+          "note": "Continuation of Nicholas’s return to Otradnoe; household business and preparations for the hunt."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 135,
+      "settings": [
+        {
+          "place": "otradnoe",
+          "label": "Otradnoe: the Rostov estate",
+          "paragraph": 6,
+          "evidenceChapter": 133,
+          "note": "Continuation of Nicholas’s return to Otradnoe; household business and preparations for the hunt."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 136,
+      "settings": [
+        {
+          "place": "otradnoe",
+          "label": "Otradnoe woods and neighboring hunting fields",
+          "paragraph": 1,
+          "evidenceChapter": 136,
+          "note": "The hunt begins toward Otradnoe wood and continues across surrounding fields; this is an estate-area setting, not an exact point."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 137,
+      "settings": [
+        {
+          "place": "otradnoe",
+          "label": "Otradnoe woods and neighboring hunting fields",
+          "paragraph": 1,
+          "evidenceChapter": 136,
+          "note": "The hunt begins toward Otradnoe wood and continues across surrounding fields; this is an estate-area setting, not an exact point."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 138,
+      "settings": [
+        {
+          "place": "otradnoe",
+          "label": "Otradnoe woods and neighboring hunting fields",
+          "paragraph": 1,
+          "evidenceChapter": 136,
+          "note": "The hunt begins toward Otradnoe wood and continues across surrounding fields; this is an estate-area setting, not an exact point."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 139,
+      "settings": [
+        {
+          "place": "mikhaylovna",
+          "label": "Mikhaylovna: Uncle’s house",
+          "paragraph": 0,
+          "evidenceChapter": 139,
+          "note": "The hunting party accepts Uncle’s invitation to his village. A fictional estate setting; no exact coordinates asserted."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 140,
+      "settings": [
+        {
+          "place": "otradnoe",
+          "label": "Otradnoe: the Rostov household",
+          "paragraph": 0,
+          "evidenceChapter": 140,
+          "note": "The chapter explicitly places the quieter family life at Otradnoe."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 141,
+      "settings": [
+        {
+          "place": "otradnoe",
+          "label": "Otradnoe: Christmas at the Rostovs’",
+          "paragraph": 0,
+          "evidenceChapter": 140,
+          "note": "The Christmas scenes continue at the estate established in the preceding chapter."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 142,
+      "settings": [
+        {
+          "place": "otradnoe",
+          "label": "Otradnoe: Christmas at the Rostovs’",
+          "paragraph": 0,
+          "evidenceChapter": 140,
+          "note": "The Christmas scenes continue at the estate established in the preceding chapter."
+        },
+        {
+          "place": "melyukovka",
+          "label": "Melyukovka: the neighbors’ house",
+          "paragraph": 86,
+          "evidenceChapter": 142,
+          "note": "The sleigh ride reaches Melyukovka; the visit follows the Rostov household scene."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 143,
+      "settings": [
+        {
+          "place": "melyukovka",
+          "label": "Melyukovka: Pelageya Danilovna’s house",
+          "paragraph": 0,
+          "evidenceChapter": 143,
+          "note": "The masqueraders visit Pelageya Danilovna; arrival at Melyukovka was established in the preceding chapter."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 144,
+      "settings": [
+        {
+          "place": "melyukovka",
+          "label": "Road from Melyukovka toward Otradnoe",
+          "paragraph": 0,
+          "evidenceChapter": 144,
+          "note": "The chapter begins with the return sleigh journey; this is a route, not continued presence at the host’s house."
+        },
+        {
+          "place": "otradnoe",
+          "label": "Otradnoe: return from the Christmas visit",
+          "paragraph": 0,
+          "evidenceChapter": 144,
+          "note": "The party is driving back home; the later scene resumes inside the Rostov home."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 145,
+      "settings": [
+        {
+          "place": "otradnoe",
+          "label": "Otradnoe: the Rostov household",
+          "paragraph": 0,
+          "evidenceChapter": 145,
+          "note": "The family conflict follows the Christmas holidays at the estate."
+        },
+        {
+          "place": "moscow",
+          "label": "Moscow: departure from Otradnoe",
+          "paragraph": 15,
+          "evidenceChapter": 145,
+          "note": "The close of the chapter sends the count, Sonya, and Natasha to Moscow."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 146,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Pierre’s house and society",
+          "paragraph": 1,
+          "evidenceChapter": 146,
+          "note": "Pierre settles into Moscow life; Petersburg is the life he has left."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 147,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: the Bolkonski household",
+          "paragraph": 0,
+          "evidenceChapter": 147,
+          "note": "The old prince and Princess Mary have moved to Moscow for winter."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 148,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: the old prince’s house",
+          "paragraph": 0,
+          "evidenceChapter": 148,
+          "note": "Metivier’s Moscow practice introduces the continuing Bolkonski household scene."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 149,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: the Bolkonski drawing room",
+          "paragraph": 0,
+          "evidenceChapter": 147,
+          "note": "The dinner and drawing-room conversation continue in the Moscow household established in Book 8, chapter 2."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 150,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Boris’s courtship visits",
+          "paragraph": 0,
+          "evidenceChapter": 150,
+          "note": "Boris comes to Moscow seeking a wealthy marriage."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 151,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Marya Dmitrievna’s house",
+          "paragraph": 1,
+          "evidenceChapter": 151,
+          "note": "The Rostovs arrive at Marya Dmitrievna’s courtyard in Old Konyusheny Street."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 152,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: the Bolkonski house on Vozdvizhenka",
+          "paragraph": 1,
+          "evidenceChapter": 152,
+          "note": "Natasha and her father visit the old prince’s house."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 153,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: the Opera",
+          "paragraph": 0,
+          "evidenceChapter": 153,
+          "note": "The opera visit continues through the performance and intervals; the stage scenery is not the narrative’s geographic setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 154,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: the Opera",
+          "paragraph": 0,
+          "evidenceChapter": 153,
+          "note": "The opera visit continues through the performance and intervals; the stage scenery is not the narrative’s geographic setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 155,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: the Opera",
+          "paragraph": 0,
+          "evidenceChapter": 153,
+          "note": "The opera visit continues through the performance and intervals; the stage scenery is not the narrative’s geographic setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 156,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Anatole’s social circle",
+          "paragraph": 0,
+          "evidenceChapter": 156,
+          "note": "Anatole is explicitly staying in Moscow."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 157,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Marya Dmitrievna’s house and parish church",
+          "paragraph": 0,
+          "evidenceChapter": 157,
+          "note": "The day after the opera continues in the Moscow household, with a visit to the Church of the Assumption."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 158,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Helene’s reception",
+          "paragraph": 0,
+          "evidenceChapter": 158,
+          "note": "The Rostovs visit Countess Bezukhova’s house in Moscow."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 159,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Marya Dmitrievna’s house",
+          "paragraph": 1,
+          "evidenceChapter": 151,
+          "note": "The household and Natasha’s room continue in the host’s Moscow house; the source anchor establishes that location."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 160,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Marya Dmitrievna’s house",
+          "paragraph": 1,
+          "evidenceChapter": 151,
+          "note": "The household and Natasha’s room continue in the host’s Moscow house; the source anchor establishes that location."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 161,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Dolokhov’s lodgings",
+          "paragraph": 0,
+          "evidenceChapter": 161,
+          "note": "The plan is made at Dolokhov’s, where Anatole now lodges. Kamenka and the Warsaw road are intended destinations, not reached settings."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 162,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: from Dolokhov’s to Marya Dmitrievna’s house",
+          "paragraph": 0,
+          "evidenceChapter": 161,
+          "note": "The attempted departure continues from Anatole’s lodgings and goes to the Moscow house; the planned escape abroad does not establish travel there."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 163,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Marya Dmitrievna’s house",
+          "paragraph": 1,
+          "evidenceChapter": 151,
+          "note": "The confrontation and Pierre’s visit take place in the established Moscow household."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 164,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Marya Dmitrievna’s house",
+          "paragraph": 1,
+          "evidenceChapter": 151,
+          "note": "The confrontation and Pierre’s visit take place in the established Moscow household."
+        },
+        {
+          "place": "tver",
+          "label": "Tver: Pierre’s preceding visit",
+          "paragraph": 0,
+          "evidenceChapter": 164,
+          "note": "The opening recounts Pierre’s completed visit to Bazdeev’s widow before he returns to Moscow."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 165,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: the Club and Pierre’s house",
+          "paragraph": 1,
+          "evidenceChapter": 165,
+          "note": "Pierre searches Moscow and confronts Anatole at home."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 166,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Marya Dmitrievna’s house, the Club, and the Bolkonskis’",
+          "paragraph": 0,
+          "evidenceChapter": 166,
+          "note": "Pierre’s visits and conversations take place in Moscow; these are separate sites within the same city."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 167,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Natasha’s room and the streets",
+          "paragraph": 0,
+          "evidenceChapter": 151,
+          "note": "Pierre visits Natasha in the Moscow household; the subsequent comet scene is on his drive through the city."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 168,
+      "settings": [],
+      "mode": "essay"
+    },
+    {
+      "chapter": 169,
+      "settings": [
+        {
+          "place": "dresden",
+          "label": "Dresden: Napoleon’s departure",
+          "paragraph": 0,
+          "evidenceChapter": 169,
+          "note": "The chapter recounts Napoleon leaving his court at Dresden before advancing east."
+        },
+        {
+          "place": "kovno",
+          "label": "Niemen crossing and the approach to Kovno",
+          "paragraph": 7,
+          "evidenceChapter": 169,
+          "note": "Napoleon crosses the Niemen and rides toward Kovno; the chapter’s main military action occurs at the river crossings."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 170,
+      "settings": [
+        {
+          "place": "vilna",
+          "label": "Vilna: Alexander’s headquarters and festivities",
+          "paragraph": 0,
+          "evidenceChapter": 170,
+          "note": "The Russian Emperor has been in Vilna for more than a month."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 171,
+      "settings": [
+        {
+          "place": "vilna",
+          "label": "Vilna: Balashev’s dispatch",
+          "paragraph": 0,
+          "evidenceChapter": 170,
+          "note": "Balashev is dispatched from Alexander’s Vilna headquarters before traveling to the French outposts."
+        },
+        {
+          "place": "rykonty",
+          "label": "Rykonty: French outposts",
+          "paragraph": 1,
+          "evidenceChapter": 171,
+          "note": "Balashev reaches the French outposts at the village of Rykonty."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 172,
+      "settings": [
+        {
+          "place": "rykonty",
+          "label": "French quarters beyond Rykonty",
+          "paragraph": 10,
+          "evidenceChapter": 171,
+          "note": "Balashev’s interview with Davout follows his passage through Rykonty; the shed is not assigned an exact coordinate."
+        },
+        {
+          "place": "vilna",
+          "label": "Vilna: arrival under French occupation",
+          "paragraph": 16,
+          "evidenceChapter": 172,
+          "note": "After four days with the French baggage train Balashev is brought to Vilna."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 173,
+      "settings": [
+        {
+          "place": "vilna",
+          "label": "Vilna: Napoleon’s quarters",
+          "paragraph": 18,
+          "evidenceChapter": 172,
+          "note": "The audience and dinner continue at Napoleon’s Vilna quarters, explicitly established in the preceding chapter."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 174,
+      "settings": [
+        {
+          "place": "vilna",
+          "label": "Vilna: Napoleon’s quarters",
+          "paragraph": 18,
+          "evidenceChapter": 172,
+          "note": "The audience and dinner continue at Napoleon’s Vilna quarters, explicitly established in the preceding chapter."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 175,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "Petersburg: Andrew’s search for Anatole",
+          "paragraph": 0,
+          "evidenceChapter": 175,
+          "note": "The chapter recounts Andrew’s journey through Petersburg before service abroad and his return home."
+        },
+        {
+          "place": "moldavia",
+          "label": "Moldavia / Turkish campaign: Andrew’s service",
+          "paragraph": 0,
+          "evidenceChapter": 175,
+          "note": "The opening recounts Andrew’s service with Kutuzov; this is a broad campaign region, not a precise campsite."
+        },
+        {
+          "place": "baldhills",
+          "label": "Bald Hills: Andrew’s family visit",
+          "paragraph": 4,
+          "evidenceChapter": 175,
+          "note": "The main family scene takes place at Bald Hills before Andrew joins the Western Army."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 176,
+      "settings": [
+        {
+          "place": "drissa",
+          "label": "Drissa: Russian headquarters and fortified camp",
+          "paragraph": 0,
+          "evidenceChapter": 176,
+          "note": "The headquarters scenes and council continue at the Drissa camp; individual quarters are in neighboring villages."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 177,
+      "settings": [
+        {
+          "place": "drissa",
+          "label": "Drissa: Russian headquarters and fortified camp",
+          "paragraph": 0,
+          "evidenceChapter": 176,
+          "note": "The headquarters scenes and council continue at the Drissa camp; individual quarters are in neighboring villages."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 178,
+      "settings": [
+        {
+          "place": "drissa",
+          "label": "Drissa: Russian headquarters and fortified camp",
+          "paragraph": 0,
+          "evidenceChapter": 176,
+          "note": "The headquarters scenes and council continue at the Drissa camp; individual quarters are in neighboring villages."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 179,
+      "settings": [
+        {
+          "place": "vilna",
+          "label": "Vilna: recalled beginning of the retreat",
+          "paragraph": 6,
+          "evidenceChapter": 179,
+          "note": "The chapter summarizes earlier camps before the immediate rainstorm scene."
+        },
+        {
+          "place": "drissa",
+          "label": "Drissa: recalled stage of the retreat",
+          "paragraph": 6,
+          "evidenceChapter": 179,
+          "note": "A named stage of the retreat, not the final bivouac in this chapter."
+        },
+        {
+          "place": "pavlograd-bivouac",
+          "label": "Pavlograd bivouac during the July retreat",
+          "paragraph": 9,
+          "evidenceChapter": 179,
+          "note": "The immediate scene is a rain-soaked rye field; the paragraph does not fix an exact village."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 180,
+      "settings": [
+        {
+          "place": "pavlograd-bivouac",
+          "label": "Tavern near the Pavlograd bivouac",
+          "paragraph": 17,
+          "evidenceChapter": 179,
+          "note": "The officers shelter in the tavern found two hundred yards from the bivouac; an exact geographic point is not established here."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 181,
+      "settings": [
+        {
+          "place": "ostrovna",
+          "label": "Ostrovna: cavalry approach and action",
+          "paragraph": 0,
+          "evidenceChapter": 181,
+          "note": "The squadrons are ordered toward Ostrovna; the cavalry action continues in the same battlefield vicinity."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 182,
+      "settings": [
+        {
+          "place": "ostrovna",
+          "label": "Ostrovna: cavalry approach and action",
+          "paragraph": 0,
+          "evidenceChapter": 181,
+          "note": "The squadrons are ordered toward Ostrovna; the cavalry action continues in the same battlefield vicinity."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 183,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: the Rostovs’ own house",
+          "paragraph": 0,
+          "evidenceChapter": 183,
+          "note": "The whole family moves from Marya Dmitrievna’s into their own Moscow house."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 184,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Natasha’s recovery and devotions",
+          "paragraph": 0,
+          "evidenceChapter": 183,
+          "note": "The recovery scenes continue in the Rostovs’ Moscow household and nearby religious life."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 185,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: the Rostovs and church service",
+          "paragraph": 0,
+          "evidenceChapter": 185,
+          "note": "The chapter explicitly opens with war reports spreading in Moscow."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 186,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Pierre’s thoughts and visits",
+          "paragraph": 2,
+          "evidenceChapter": 186,
+          "note": "Pierre’s current life and acquaintances are explicitly situated in Moscow."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 187,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: dinner at the Rostovs’",
+          "paragraph": 0,
+          "evidenceChapter": 183,
+          "note": "The Sunday dinner continues at the Rostov house established in Book 9, chapter 16."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 188,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Petya’s visit to see the Emperor",
+          "paragraph": 1,
+          "evidenceChapter": 188,
+          "note": "The Emperor arrives in Moscow and Petya leaves home to see him."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 189,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Sloboda Palace",
+          "paragraph": 0,
+          "evidenceChapter": 189,
+          "note": "The gathering is at the Sloboda Palace during the Emperor’s Moscow visit."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 190,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Sloboda Palace gathering",
+          "paragraph": 0,
+          "evidenceChapter": 189,
+          "note": "Rostopchin addresses the gathering established at Sloboda Palace in the preceding chapter."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 191,
+      "settings": [],
+      "mode": "essay"
+    },
+    {
+      "chapter": 192,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills: the old prince’s household",
+          "paragraph": 12,
+          "evidenceChapter": 192,
+          "note": "The household scenes occur at Bald Hills; Andrew’s warning letter identifies the danger of remaining there."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 193,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills: the old prince’s household",
+          "paragraph": 12,
+          "evidenceChapter": 192,
+          "note": "The household scenes occur at Bald Hills; Andrew’s warning letter identifies the danger of remaining there."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 194,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills: Alpatych’s departure",
+          "paragraph": 0,
+          "evidenceChapter": 194,
+          "note": "The chapter opens at the estate before Alpatych leaves on his errand."
+        },
+        {
+          "place": "smolensk",
+          "label": "Smolensk: Ferapontov’s inn and the bombardment",
+          "paragraph": 13,
+          "evidenceChapter": 194,
+          "note": "Alpatych arrives at the Gachina suburb across the Dnieper and lodges at Ferapontov’s inn."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 195,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills and the retreating army’s road",
+          "paragraph": 0,
+          "evidenceChapter": 195,
+          "note": "Andrew’s regiment passes the avenue to Bald Hills; he visits the estate during the retreat."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 196,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "Petersburg: Anna Pavlovna’s and Helene’s salons",
+          "paragraph": 0,
+          "evidenceChapter": 196,
+          "note": "The chapter explicitly contrasts the two Petersburg salons."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 197,
+      "settings": [
+        {
+          "place": "vyazma",
+          "label": "Vyazma → Tsarevo-Zaymishche: Napoleon’s march",
+          "paragraph": 2,
+          "evidenceChapter": 197,
+          "note": "The conversation with the prisoner occurs on the march between these places, not at Moscow."
+        },
+        {
+          "place": "tsarevo-zaymishche",
+          "label": "Road toward Tsarevo-Zaymishche",
+          "paragraph": 2,
+          "evidenceChapter": 197,
+          "note": "The named endpoint of the marching scene; no exact roadside interview location is asserted."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 198,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills: preparations and illness",
+          "paragraph": 1,
+          "evidenceChapter": 198,
+          "note": "The opening describes the old prince’s resolve to stay at Bald Hills."
+        },
+        {
+          "place": "bogucharovo",
+          "label": "Bogucharovo: the old prince’s sickroom",
+          "paragraph": 8,
+          "evidenceChapter": 198,
+          "note": "After moving from Bald Hills, the old prince lies ill in Andrew’s house at Bogucharovo."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 199,
+      "settings": [
+        {
+          "place": "bogucharovo",
+          "label": "Bogucharovo: estate, household, and village",
+          "paragraph": 0,
+          "evidenceChapter": 199,
+          "note": "The unrest and household scenes continue at Bogucharovo; the chapter introducing the peasants explicitly identifies the estate."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 200,
+      "settings": [
+        {
+          "place": "bogucharovo",
+          "label": "Bogucharovo: estate, household, and village",
+          "paragraph": 0,
+          "evidenceChapter": 199,
+          "note": "The unrest and household scenes continue at Bogucharovo; the chapter introducing the peasants explicitly identifies the estate."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 201,
+      "settings": [
+        {
+          "place": "bogucharovo",
+          "label": "Bogucharovo: estate, household, and village",
+          "paragraph": 0,
+          "evidenceChapter": 199,
+          "note": "The unrest and household scenes continue at Bogucharovo; the chapter introducing the peasants explicitly identifies the estate."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 202,
+      "settings": [
+        {
+          "place": "bogucharovo",
+          "label": "Bogucharovo: estate, household, and village",
+          "paragraph": 0,
+          "evidenceChapter": 199,
+          "note": "The unrest and household scenes continue at Bogucharovo; the chapter introducing the peasants explicitly identifies the estate."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 203,
+      "settings": [
+        {
+          "place": "yankovo",
+          "label": "Yankovo: departure of Rostov and Ilyin",
+          "paragraph": 0,
+          "evidenceChapter": 203,
+          "note": "Rostov and Ilyin ride out from quarters at Yankovo, ten miles from Bogucharovo."
+        },
+        {
+          "place": "bogucharovo",
+          "label": "Bogucharovo: Rostov meets Princess Mary",
+          "paragraph": 1,
+          "evidenceChapter": 203,
+          "note": "The ride reaches Bogucharovo, situated between the opposing armies."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 204,
+      "settings": [
+        {
+          "place": "bogucharovo",
+          "label": "Bogucharovo: departure preparations",
+          "paragraph": 1,
+          "evidenceChapter": 203,
+          "note": "Rostov’s intervention and the household’s departure continue at Bogucharovo."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 205,
+      "settings": [
+        {
+          "place": "tsarevo-zaymishche",
+          "label": "Tsarevo-Zaymishche: Kutuzov’s headquarters",
+          "paragraph": 1,
+          "evidenceChapter": 205,
+          "note": "Andrew’s meeting with Kutuzov continues at the village priest’s house."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 206,
+      "settings": [
+        {
+          "place": "tsarevo-zaymishche",
+          "label": "Tsarevo-Zaymishche: Kutuzov’s headquarters",
+          "paragraph": 1,
+          "evidenceChapter": 205,
+          "note": "Andrew’s meeting with Kutuzov continues at the village priest’s house."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 207,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: society as the enemy approaches",
+          "paragraph": 0,
+          "evidenceChapter": 207,
+          "note": "The chapter explicitly describes life in Moscow after the Emperor’s departure."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 208,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Pierre’s decision to leave",
+          "paragraph": 35,
+          "evidenceChapter": 208,
+          "note": "Pierre resolves to leave Moscow after witnessing the crowd."
+        },
+        {
+          "place": "mozhaisk",
+          "label": "Mozhaisk: Pierre’s arrival",
+          "paragraph": 38,
+          "evidenceChapter": 208,
+          "note": "Pierre reaches the crowded town and hostel on his way to the army."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 209,
+      "settings": [
+        {
+          "place": "borodino",
+          "label": "Borodino and Shevardino: historical discussion",
+          "paragraph": 0,
+          "evidenceChapter": 209,
+          "note": "The chapter analyzes the battles and positions rather than locating a single character scene."
+        }
+      ],
+      "mode": "historical"
+    },
+    {
+      "chapter": 210,
+      "settings": [
+        {
+          "place": "mozhaisk",
+          "label": "Mozhaisk: Pierre’s departure",
+          "paragraph": 0,
+          "evidenceChapter": 210,
+          "note": "Pierre leaves Mozhaisk and encounters wounded men on the road."
+        },
+        {
+          "place": "borodino",
+          "label": "Gorki / Borodino battlefield approach",
+          "paragraph": 30,
+          "evidenceChapter": 210,
+          "note": "Pierre drives toward Gorki and reaches the militiamen at the battlefield."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 211,
+      "settings": [
+        {
+          "place": "borodino",
+          "label": "Gorki: overview of the Borodino field",
+          "paragraph": 2,
+          "evidenceChapter": 211,
+          "note": "The panorama identifies Borodino, the Kolocha, and surrounding positions; the viewpoint continues from Pierre’s arrival at Gorki."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 212,
+      "settings": [
+        {
+          "place": "borodino",
+          "label": "Borodino field: procession and officers",
+          "paragraph": 2,
+          "evidenceChapter": 211,
+          "note": "The encounters continue amid the troops on the battlefield established in the preceding chapter."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 213,
+      "settings": [
+        {
+          "place": "borodino",
+          "label": "Borodino: tour of the redoubts and Semenovsk",
+          "paragraph": 0,
+          "evidenceChapter": 213,
+          "note": "Bennigsen and Pierre ride from Gorki through Borodino to the redoubt and further positions."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 214,
+      "settings": [
+        {
+          "place": "borodino",
+          "label": "Knyazkovo: Andrew’s encampment near Borodino",
+          "paragraph": 0,
+          "evidenceChapter": 214,
+          "note": "The conversation continues in Andrew’s broken-down shed in Knyazkovo, at the edge of his regiment’s camp."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 215,
+      "settings": [
+        {
+          "place": "borodino",
+          "label": "Knyazkovo: Andrew’s encampment near Borodino",
+          "paragraph": 0,
+          "evidenceChapter": 214,
+          "note": "The conversation continues in Andrew’s broken-down shed in Knyazkovo, at the edge of his regiment’s camp."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 216,
+      "settings": [
+        {
+          "place": "borodino",
+          "label": "Valuevo: Napoleon’s quarters near Borodino",
+          "paragraph": 0,
+          "evidenceChapter": 216,
+          "note": "Napoleon’s tent is at Valuevo on the eve of the battle; the map locates the broader Borodino battlefield area."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 217,
+      "settings": [
+        {
+          "place": "borodino",
+          "label": "Borodino: Napoleon’s dispositions",
+          "paragraph": 1,
+          "evidenceChapter": 217,
+          "note": "The chapter discusses the battlefield plan and the altered Russian line."
+        }
+      ],
+      "mode": "historical"
+    },
+    {
+      "chapter": 218,
+      "settings": [
+        {
+          "place": "borodino",
+          "label": "Borodino: historical argument",
+          "paragraph": 0,
+          "evidenceChapter": 218,
+          "note": "Discussion of explanations of the battle, not a new situated scene."
+        }
+      ],
+      "mode": "historical"
+    },
+    {
+      "chapter": 219,
+      "settings": [
+        {
+          "place": "borodino",
+          "label": "Valuevo → Shevardino: Napoleon’s headquarters",
+          "paragraph": 34,
+          "evidenceChapter": 219,
+          "note": "The night scene at headquarters leads to Napoleon’s arrival at the Shevardino Redoubt."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 220,
+      "settings": [
+        {
+          "place": "borodino",
+          "label": "Gorki: Pierre at dawn",
+          "paragraph": 0,
+          "evidenceChapter": 220,
+          "note": "Pierre returns to Gorki and wakes to the beginning of the battle."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 221,
+      "settings": [
+        {
+          "place": "borodino",
+          "label": "Borodino: Kolocha bridge and Raevski Redoubt",
+          "paragraph": 31,
+          "evidenceChapter": 221,
+          "note": "Pierre crosses the field and reaches the Knoll Battery; this is a battlefield-level map location."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 222,
+      "settings": [
+        {
+          "place": "borodino",
+          "label": "Borodino: Raevski Redoubt / Knoll Battery",
+          "paragraph": 31,
+          "evidenceChapter": 221,
+          "note": "The action continues at the battery explicitly identified in the preceding chapter."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 223,
+      "settings": [
+        {
+          "place": "borodino",
+          "label": "Borodino: the central battlefield",
+          "paragraph": 0,
+          "evidenceChapter": 223,
+          "note": "The narrator describes the principal action between Borodino and Bagration’s fleches."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 224,
+      "settings": [
+        {
+          "place": "borodino",
+          "label": "Borodino: Napoleon’s command post",
+          "paragraph": 0,
+          "evidenceChapter": 224,
+          "note": "Napoleon receives requests from his generals during the continuing battle."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 225,
+      "settings": [
+        {
+          "place": "borodino",
+          "label": "Gorki: Kutuzov’s command post",
+          "paragraph": 12,
+          "evidenceChapter": 225,
+          "note": "Kutuzov’s location is explicitly identified as Gorki near the center of the Russian position."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 226,
+      "settings": [
+        {
+          "place": "borodino",
+          "label": "Borodino: reserves near Semenovsk",
+          "paragraph": 0,
+          "evidenceChapter": 226,
+          "note": "Andrew’s regiment is stationed behind Semenovsk and moved toward the Knoll Battery."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 227,
+      "settings": [
+        {
+          "place": "borodino",
+          "label": "Borodino: the dressing station",
+          "paragraph": 0,
+          "evidenceChapter": 227,
+          "note": "Andrew is carried into the surgical tent after the battlefield scene; the precise tent site is not asserted."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 228,
+      "settings": [
+        {
+          "place": "borodino",
+          "label": "Shevardino: Napoleon after the battle",
+          "paragraph": 0,
+          "evidenceChapter": 228,
+          "note": "Napoleon returns from the battlefield to the Shevardino knoll."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 229,
+      "settings": [
+        {
+          "place": "borodino",
+          "label": "Borodino battlefield: aftermath",
+          "paragraph": 0,
+          "evidenceChapter": 229,
+          "note": "The chapter explicitly surveys Borodino, Gorki, Shevardino, and Semenovsk."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 230,
+      "settings": [],
+      "mode": "essay"
+    },
+    {
+      "chapter": 231,
+      "settings": [
+        {
+          "place": "borodino",
+          "label": "Borodino: historical account of retreat",
+          "paragraph": 0,
+          "evidenceChapter": 231,
+          "note": "The chapter discusses the invasion and retreat retrospectively; this is historical geography, not a current scene."
+        },
+        {
+          "place": "moscow",
+          "label": "Moscow: historical account of occupation and retreat",
+          "paragraph": 2,
+          "evidenceChapter": 231,
+          "note": "The narrator summarizes the advance to and retreat from Moscow."
+        }
+      ],
+      "mode": "historical"
+    },
+    {
+      "chapter": 232,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow outskirts: Poklonny Hill and Fili",
+          "paragraph": 3,
+          "evidenceChapter": 232,
+          "note": "Kutuzov sits on Poklonny Hill outside the Dorogomilov gate, then rides to Fili."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 233,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Fili: the council of war",
+          "paragraph": 6,
+          "evidenceChapter": 232,
+          "note": "The council takes place in Savostyanov’s hut after Kutuzov rides to Fili, as established in the preceding chapter."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 234,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: discussion of evacuation and burning",
+          "paragraph": 0,
+          "evidenceChapter": 234,
+          "note": "The narrator analyzes Rostopchin’s actions and Moscow’s evacuation."
+        }
+      ],
+      "mode": "historical"
+    },
+    {
+      "chapter": 235,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "Petersburg: Helene’s social and religious negotiations",
+          "paragraph": 0,
+          "evidenceChapter": 235,
+          "note": "Helene has returned from Vilna to Petersburg; the following negotiations continue there."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 236,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "Petersburg: Helene’s social and religious negotiations",
+          "paragraph": 0,
+          "evidenceChapter": 235,
+          "note": "Helene has returned from Vilna to Petersburg; the following negotiations continue there."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 237,
+      "settings": [
+        {
+          "place": "borodino",
+          "label": "Borodino → Mozhaisk: Pierre’s retreat",
+          "paragraph": 0,
+          "evidenceChapter": 237,
+          "note": "Pierre leaves the battlefield through Knyazkovo and the dressing station."
+        },
+        {
+          "place": "mozhaisk",
+          "label": "Mozhaisk: arrival after the battle",
+          "paragraph": 20,
+          "evidenceChapter": 237,
+          "note": "Pierre reaches the town with the soldiers and finds his groom."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 238,
+      "settings": [
+        {
+          "place": "mozhaisk",
+          "label": "Mozhaisk: the inn and departure",
+          "paragraph": 11,
+          "evidenceChapter": 238,
+          "note": "Pierre sleeps at the inn; the next morning the French approach Mozhaisk and the troops depart."
+        },
+        {
+          "place": "moscow",
+          "label": "Road to Moscow: Pierre’s return journey",
+          "paragraph": 13,
+          "evidenceChapter": 238,
+          "note": "Pierre gives a wounded general space in his carriage and drives toward Moscow; his arrival is narrated in the next chapter."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 239,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Pierre’s return and Rostopchin’s reception",
+          "paragraph": 0,
+          "evidenceChapter": 239,
+          "note": "Pierre reaches Moscow on August 30."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 240,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Rostopchin’s private room",
+          "paragraph": 0,
+          "evidenceChapter": 239,
+          "note": "The private interview continues from Pierre’s arrival at the Moscow governor’s reception."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 241,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: the Rostov house and departure",
+          "paragraph": 0,
+          "evidenceChapter": 241,
+          "note": "The evacuation preparations and departure continue in the Rostovs’ Moscow household. Each chapter supplies local action within this setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 242,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: the Rostov house and departure",
+          "paragraph": 0,
+          "evidenceChapter": 241,
+          "note": "The evacuation preparations and departure continue in the Rostovs’ Moscow household. Each chapter supplies local action within this setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 243,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: the Rostov house and departure",
+          "paragraph": 0,
+          "evidenceChapter": 241,
+          "note": "The evacuation preparations and departure continue in the Rostovs’ Moscow household. Each chapter supplies local action within this setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 244,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: the Rostov house and departure",
+          "paragraph": 0,
+          "evidenceChapter": 241,
+          "note": "The evacuation preparations and departure continue in the Rostovs’ Moscow household. Each chapter supplies local action within this setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 245,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: the Rostov house and departure",
+          "paragraph": 0,
+          "evidenceChapter": 241,
+          "note": "The evacuation preparations and departure continue in the Rostovs’ Moscow household. Each chapter supplies local action within this setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 246,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: the Rostov house and departure",
+          "paragraph": 0,
+          "evidenceChapter": 241,
+          "note": "The evacuation preparations and departure continue in the Rostovs’ Moscow household. Each chapter supplies local action within this setting."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 247,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Bazdeev’s empty house",
+          "paragraph": 1,
+          "evidenceChapter": 247,
+          "note": "The chapter explains Pierre’s movements after returning to Moscow; he stays at his deceased benefactor’s house."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 248,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: bridges, streets, and the retreat",
+          "paragraph": 1,
+          "evidenceChapter": 248,
+          "note": "The army crowds through the Dorogomilov bridge and Moscow streets."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 249,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: the emptied city",
+          "paragraph": 0,
+          "evidenceChapter": 249,
+          "note": "The narrator explicitly surveys deserted Moscow, using the queenless-hive comparison."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 250,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: bridges, Kremlin, and Bazaar",
+          "paragraph": 0,
+          "evidenceChapter": 250,
+          "note": "Russian troops pass through the city as some soldiers return toward the Bazaar."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 251,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: the deserted Rostov house",
+          "paragraph": 0,
+          "evidenceChapter": 251,
+          "note": "The deserted Povarskaya and the Rostov courtyard are explicitly described."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 252,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Varvarka tavern and streets",
+          "paragraph": 0,
+          "evidenceChapter": 252,
+          "note": "The factory hands gather in a dramshop on the Varvarka."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 253,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Rostopchin’s house",
+          "paragraph": 0,
+          "evidenceChapter": 253,
+          "note": "Rostopchin returns to Moscow after his interview with Kutuzov."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 254,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Rostopchin’s house and crowd",
+          "paragraph": 0,
+          "evidenceChapter": 254,
+          "note": "The troops are passing through Moscow as Rostopchin prepares to depart; the crowd scene follows there."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 255,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Arbat and French entry",
+          "paragraph": 0,
+          "evidenceChapter": 255,
+          "note": "Murat’s troops enter Moscow and halt near the Church of St. Nicholas on the Arbat."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 256,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Bazdeev’s house",
+          "paragraph": 0,
+          "evidenceChapter": 256,
+          "note": "The French reach Pierre’s Moscow quarter; his refuge is Joseph Alexeevich’s study."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 257,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Bazdeev’s house and Ramballe’s visit",
+          "paragraph": 0,
+          "evidenceChapter": 256,
+          "note": "The encounter with the French officer continues in Pierre’s refuge in Moscow."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 258,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Bazdeev’s house and Ramballe’s visit",
+          "paragraph": 0,
+          "evidenceChapter": 256,
+          "note": "The encounter with the French officer continues in Pierre’s refuge in Moscow."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 259,
+      "settings": [
+        {
+          "place": "mytishchi",
+          "label": "Great Mytishchi: the Rostovs’ overnight stop",
+          "paragraph": 1,
+          "evidenceChapter": 259,
+          "note": "The Rostov family and wounded travelers are distributed among yards and huts in Great Mytishchi."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 260,
+      "settings": [
+        {
+          "place": "mytishchi",
+          "label": "Great Mytishchi: the Rostovs’ cottage",
+          "paragraph": 1,
+          "evidenceChapter": 259,
+          "note": "The family watches the distant glow of Moscow from the overnight stop; the fire is not their physical location."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 261,
+      "settings": [
+        {
+          "place": "mytishchi",
+          "label": "Mytishchi: Andrew’s sickroom",
+          "paragraph": 0,
+          "evidenceChapter": 261,
+          "note": "The opening explicitly places Andrew in a hut at Mytishchi; Borodino is recalled retrospectively."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 262,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Bazdeev’s house and burning streets",
+          "paragraph": 0,
+          "evidenceChapter": 256,
+          "note": "Pierre wakes in the established Moscow refuge and goes into the burning city."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 263,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow: Gruzinski garden near Povarskoy",
+          "paragraph": 0,
+          "evidenceChapter": 263,
+          "note": "Pierre returns through courtyards and streets to the Gruzinski garden with the rescued child."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 264,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Anna Pavlovna’s soirée",
+          "paragraph": 1,
+          "evidenceChapter": 264,
+          "note": "The narrative returns to Petersburg society on the day of Borodino."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 265,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · palace and court",
+          "paragraph": 0,
+          "evidenceChapter": 264,
+          "note": "The court receives news; the Petersburg setting continues from the preceding chapter."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 266,
+      "settings": [
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · palace on Stone Island",
+          "paragraph": 2,
+          "evidenceChapter": 266,
+          "note": "The Emperor receives Michaud in his study."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 267,
+      "settings": [
+        {
+          "place": "voronezh",
+          "label": "Voronezh and a nearby stud farm",
+          "paragraph": 7,
+          "evidenceChapter": 267,
+          "note": "Nicholas arrives in Voronezh; the chapter also takes him fourteen miles out to buy horses."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 268,
+      "settings": [
+        {
+          "place": "voronezh",
+          "label": "Voronezh · governor’s party",
+          "paragraph": 0,
+          "evidenceChapter": 268,
+          "note": "The conversation continues at the provincial gathering."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 269,
+      "settings": [
+        {
+          "place": "voronezh",
+          "label": "Voronezh · Aunt Malvintseva’s house",
+          "paragraph": 0,
+          "evidenceChapter": 269,
+          "note": "Mary is staying with her aunt; Nicholas visits her here."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 270,
+      "settings": [
+        {
+          "place": "voronezh",
+          "label": "Voronezh · cathedral and lodgings",
+          "paragraph": 0,
+          "evidenceChapter": 270,
+          "note": "News of the campaign reaches Nicholas and Mary in Voronezh."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 271,
+      "settings": [
+        {
+          "place": "troitsa",
+          "label": "Troitsa monastery · Rostovs’ stopping place",
+          "paragraph": 5,
+          "evidenceChapter": 271,
+          "note": "Sonya writes during the family’s halt at the monastery; the chapter also recalls their final days in Moscow."
+        },
+        {
+          "place": "moscow",
+          "label": "Moscow · recalled Rostov household scenes",
+          "paragraph": 1,
+          "evidenceChapter": 271,
+          "note": "The account of Sonya’s letter looks back to conversations before the departure from Moscow."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 272,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · guardhouse and coach house near Crimean Bridge",
+          "paragraph": 7,
+          "evidenceChapter": 272,
+          "note": "Pierre is interrogated and moved through the burning city."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 273,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Virgin’s Field and Shcherbatov’s house",
+          "paragraph": 2,
+          "evidenceChapter": 273,
+          "note": "The prisoners are brought before Davout."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 274,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · execution ground at Virgin’s Field",
+          "paragraph": 0,
+          "evidenceChapter": 274,
+          "note": "The prisoners are led from Shcherbatov’s house to the nearby kitchen garden."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 275,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · prisoner sheds at Virgin’s Field",
+          "paragraph": 1,
+          "evidenceChapter": 275,
+          "note": "After the execution Pierre is led to a shed at the upper end of the same field."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 276,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · prisoner shed",
+          "paragraph": 1,
+          "evidenceChapter": 275,
+          "note": "The confinement introduced in the preceding chapter continues here."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 277,
+      "settings": [
+        {
+          "place": "voronezh",
+          "label": "Voronezh · departure",
+          "paragraph": 1,
+          "evidenceChapter": 277,
+          "note": "Mary leaves her aunt’s household for the journey to her brother."
+        },
+        {
+          "place": "yaroslavl",
+          "label": "Yaroslavl · Rostovs’ lodgings",
+          "paragraph": 8,
+          "evidenceChapter": 277,
+          "note": "Mary arrives after a long detour through Lipetsk, Ryazan, Vladimir and Shuya."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 278,
+      "settings": [
+        {
+          "place": "yaroslavl",
+          "label": "Yaroslavl · Andrew’s sickroom",
+          "paragraph": 8,
+          "evidenceChapter": 277,
+          "note": "The sickroom scene continues from Mary’s arrival at the Rostovs’ lodgings."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 279,
+      "settings": [
+        {
+          "place": "yaroslavl",
+          "label": "Yaroslavl · Andrew’s sickroom",
+          "paragraph": 8,
+          "evidenceChapter": 277,
+          "note": "The sickroom scene continues from Mary’s arrival at the Rostovs’ lodgings."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 280,
+      "settings": [
+        {
+          "place": "tarutino",
+          "label": "Tarutino · flank-march discussion",
+          "paragraph": 1,
+          "evidenceChapter": 280,
+          "note": "Historical analysis of the army’s movement toward Tarutino, not a single continuous scene."
+        }
+      ],
+      "mode": "historical"
+    },
+    {
+      "chapter": 281,
+      "settings": [
+        {
+          "place": "tarutino",
+          "label": "Tarutino · Russian camp",
+          "paragraph": 2,
+          "evidenceChapter": 281,
+          "note": "The narrative explains the army’s movement and its month of rest at Tarutino."
+        }
+      ],
+      "mode": "historical"
+    },
+    {
+      "chapter": 282,
+      "settings": [
+        {
+          "place": "tarutino",
+          "label": "Tarutino · Russian headquarters",
+          "paragraph": 2,
+          "evidenceChapter": 281,
+          "note": "Discussion of the command and incoming instructions continues in the Tarutino campaign context; Petersburg is the origin of orders, not the army’s location."
+        }
+      ],
+      "mode": "historical"
+    },
+    {
+      "chapter": 283,
+      "settings": [
+        {
+          "place": "tarutino",
+          "label": "Tarutino · army camp",
+          "paragraph": 2,
+          "evidenceChapter": 281,
+          "note": "The officer searches the Russian camp for Ermolov before riding beyond its lines."
+        },
+        {
+          "place": "echkino",
+          "label": "Echkino · country house beyond the Russian lines",
+          "paragraph": 16,
+          "evidenceChapter": 283,
+          "note": "The officer finds the generals at a party here."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 284,
+      "settings": [
+        {
+          "place": "letashovka",
+          "label": "Letashovka · Kutuzov’s headquarters",
+          "paragraph": 0,
+          "evidenceChapter": 284,
+          "note": "Kutuzov leaves this village, described as three and a half miles from Tarutino."
+        },
+        {
+          "place": "tarutino",
+          "label": "Tarutino · assembly area",
+          "paragraph": 0,
+          "evidenceChapter": 284,
+          "note": "Kutuzov drives toward the troops and finds the attack has not begun."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 285,
+      "settings": [
+        {
+          "place": "tarutino",
+          "label": "Tarutino · battle area",
+          "paragraph": 0,
+          "evidenceChapter": 284,
+          "note": "The night march continues the Tarutino operation; Orlov-Denisov halts on the path from Stromilova to Dmitrovsk."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 286,
+      "settings": [
+        {
+          "place": "tarutino",
+          "label": "Tarutino · battle area",
+          "paragraph": 13,
+          "evidenceChapter": 286,
+          "note": "The chapter follows Kutuzov’s column and assesses the battle."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 287,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Napoleon’s occupation",
+          "paragraph": 0,
+          "evidenceChapter": 287,
+          "note": "Historical overview rather than a single enacted scene."
+        }
+      ],
+      "mode": "historical"
+    },
+    {
+      "chapter": 288,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Napoleon’s headquarters and orders",
+          "paragraph": 0,
+          "evidenceChapter": 288,
+          "note": "Historical overview rather than a single enacted scene."
+        }
+      ],
+      "mode": "historical"
+    },
+    {
+      "chapter": 289,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · occupation and evacuation",
+          "paragraph": 1,
+          "evidenceChapter": 289,
+          "note": "Historical overview rather than a single enacted scene."
+        }
+      ],
+      "mode": "historical"
+    },
+    {
+      "chapter": 290,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · prisoner shed",
+          "paragraph": 1,
+          "evidenceChapter": 275,
+          "note": "Pierre remains in the prisoner camp introduced after the execution; the scene is dated October 6."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 291,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · captivity",
+          "paragraph": 1,
+          "evidenceChapter": 291,
+          "note": "The text explicitly locates Pierre’s changed life in burned Moscow."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 292,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · departure from the prisoner sheds",
+          "paragraph": 0,
+          "evidenceChapter": 292,
+          "note": "The French evacuation and the prisoners’ departure begin here."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 293,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Khamovniki and the Kaluga road",
+          "paragraph": 0,
+          "evidenceChapter": 293,
+          "note": "The prisoners march through Moscow and become entangled in the departing army."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 294,
+      "settings": [
+        {
+          "place": "aristovo",
+          "label": "Aristovo · Dokhturov’s headquarters",
+          "paragraph": 5,
+          "evidenceChapter": 294,
+          "note": "Dokhturov halts halfway to Forminsk; reports of the French movement reach his headquarters here."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 295,
+      "settings": [
+        {
+          "place": "letashovka",
+          "label": "Litashëvka / Letashovka · Russian general staff",
+          "paragraph": 0,
+          "evidenceChapter": 295,
+          "note": "Bolkhovitinov reaches the headquarters village after one in the morning; spelling varies in the translation."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 296,
+      "settings": [
+        {
+          "place": "letashovka",
+          "label": "Litashëvka / Letashovka · Kutuzov’s room",
+          "paragraph": 0,
+          "evidenceChapter": 295,
+          "note": "The messenger’s arrival continues into Kutuzov’s room at the same headquarters."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 297,
+      "settings": [
+        {
+          "place": "maloyaroslavets",
+          "label": "Maloyaroslavets · battle and French council",
+          "paragraph": 6,
+          "evidenceChapter": 297,
+          "note": "Historical overview rather than a single enacted scene."
+        }
+      ],
+      "mode": "historical"
+    },
+    {
+      "chapter": 298,
+      "settings": [
+        {
+          "place": "vyazma",
+          "label": "Vyazma · encounter during the retreat",
+          "paragraph": 9,
+          "evidenceChapter": 298,
+          "note": "Historical account of the French retreat along the Smolensk road, with a described encounter near Vyazma."
+        }
+      ],
+      "mode": "historical"
+    },
+    {
+      "chapter": 299,
+      "settings": [],
+      "mode": "essay"
+    },
+    {
+      "chapter": 300,
+      "settings": [],
+      "mode": "essay"
+    },
+    {
+      "chapter": 301,
+      "settings": [
+        {
+          "place": "shamshevo",
+          "label": "Mikulino–Shamshevo road and adjoining forest",
+          "paragraph": 7,
+          "evidenceChapter": 301,
+          "note": "Denisov’s party follows the convoy along this stretch of road; no precise modern coordinate is asserted."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 302,
+      "settings": [
+        {
+          "place": "shamshevo",
+          "label": "Shamshevo · forest camp and French bivouac",
+          "paragraph": 7,
+          "evidenceChapter": 301,
+          "note": "The action continues around the Shamshevo convoy and the nearby forest camp established in Book 14, chapter III."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 303,
+      "settings": [
+        {
+          "place": "shamshevo",
+          "label": "Shamshevo · forest camp and French bivouac",
+          "paragraph": 7,
+          "evidenceChapter": 301,
+          "note": "The action continues around the Shamshevo convoy and the nearby forest camp established in Book 14, chapter III."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 304,
+      "settings": [
+        {
+          "place": "shamshevo",
+          "label": "Shamshevo · forest camp and French bivouac",
+          "paragraph": 7,
+          "evidenceChapter": 301,
+          "note": "The action continues around the Shamshevo convoy and the nearby forest camp established in Book 14, chapter III."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 305,
+      "settings": [
+        {
+          "place": "shamshevo",
+          "label": "Shamshevo · forest camp and French bivouac",
+          "paragraph": 7,
+          "evidenceChapter": 301,
+          "note": "The action continues around the Shamshevo convoy and the nearby forest camp established in Book 14, chapter III."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 306,
+      "settings": [
+        {
+          "place": "shamshevo",
+          "label": "Shamshevo · forest camp and French bivouac",
+          "paragraph": 7,
+          "evidenceChapter": 301,
+          "note": "The action continues around the Shamshevo convoy and the nearby forest camp established in Book 14, chapter III."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 307,
+      "settings": [
+        {
+          "place": "shamshevo",
+          "label": "Shamshevo · forest camp and French bivouac",
+          "paragraph": 7,
+          "evidenceChapter": 301,
+          "note": "The action continues around the Shamshevo convoy and the nearby forest camp established in Book 14, chapter III."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 308,
+      "settings": [
+        {
+          "place": "shamshevo",
+          "label": "Shamshevo · forest camp and French bivouac",
+          "paragraph": 7,
+          "evidenceChapter": 301,
+          "note": "The action continues around the Shamshevo convoy and the nearby forest camp established in Book 14, chapter III."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 309,
+      "settings": [
+        {
+          "place": "shamshevo",
+          "label": "Shamshevo · forest camp and French bivouac",
+          "paragraph": 7,
+          "evidenceChapter": 301,
+          "note": "The action continues around the Shamshevo convoy and the nearby forest camp established in Book 14, chapter III."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 310,
+      "settings": [
+        {
+          "place": "smolensk-road",
+          "label": "Smolensk road · west of Vyazma",
+          "paragraph": 1,
+          "evidenceChapter": 310,
+          "note": "Pierre’s prisoner column is on the retreat beyond Vyazma; this is a road segment, not a precise point."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 311,
+      "settings": [
+        {
+          "place": "smolensk-road",
+          "label": "Smolensk road · prisoner march",
+          "paragraph": 1,
+          "evidenceChapter": 310,
+          "note": "The October 22 prisoner march continues beyond Vyazma; the precise roadside location is not specified."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 312,
+      "settings": [
+        {
+          "place": "smolensk-road",
+          "label": "Smolensk road · prisoner march",
+          "paragraph": 1,
+          "evidenceChapter": 310,
+          "note": "The October 22 prisoner march continues beyond Vyazma; the precise roadside location is not specified."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 313,
+      "settings": [
+        {
+          "place": "shamshevo",
+          "label": "Shamshevo · convoy halt",
+          "paragraph": 0,
+          "evidenceChapter": 313,
+          "note": "The narrative explicitly places the prisoners and baggage train in the village."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 314,
+      "settings": [
+        {
+          "place": "smolensk-road",
+          "label": "Retreat corridor · Moscow to Vilna",
+          "paragraph": 1,
+          "evidenceChapter": 314,
+          "note": "A retrospective account of the army’s disintegration across several stages; not a single scene or pinpoint location."
+        }
+      ],
+      "mode": "historical"
+    },
+    {
+      "chapter": 315,
+      "settings": [
+        {
+          "place": "smolensk-road",
+          "label": "Kaluga and Smolensk roads · retreat",
+          "paragraph": 1,
+          "evidenceChapter": 315,
+          "note": "Historical overview of the armies’ pursuit and retreat, rather than one stationary scene."
+        }
+      ],
+      "mode": "historical"
+    },
+    {
+      "chapter": 316,
+      "settings": [
+        {
+          "place": "smolensk-road",
+          "label": "French retreat · Maloyaroslavets to the frontier",
+          "paragraph": 1,
+          "evidenceChapter": 316,
+          "note": "A critique of historical explanations across several locations; no one scene setting."
+        }
+      ],
+      "mode": "historical"
+    },
+    {
+      "chapter": 317,
+      "settings": [],
+      "mode": "essay"
+    },
+    {
+      "chapter": 318,
+      "settings": [
+        {
+          "place": "yaroslavl",
+          "label": "Yaroslavl · Rostovs’ lodgings",
+          "paragraph": 5,
+          "evidenceChapter": 318,
+          "note": "Alpatych comes to Yaroslavl while Mary and Natasha grieve; Moscow is proposed as their next destination."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 319,
+      "settings": [
+        {
+          "place": "yaroslavl",
+          "label": "Yaroslavl · Rostov household",
+          "paragraph": 5,
+          "evidenceChapter": 318,
+          "note": "The family’s grief and Natasha’s care for her mother continue at the Yaroslavl lodgings established in chapter I."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 320,
+      "settings": [
+        {
+          "place": "yaroslavl",
+          "label": "Yaroslavl · Rostov household",
+          "paragraph": 5,
+          "evidenceChapter": 318,
+          "note": "The family’s grief and Natasha’s care for her mother continue at the Yaroslavl lodgings established in chapter I."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 321,
+      "settings": [
+        {
+          "place": "krasnoe",
+          "label": "Krasnoe · battle area",
+          "paragraph": 9,
+          "evidenceChapter": 321,
+          "note": "The chapter describes the exhausted armies and the encounters at Krasnoe."
+        }
+      ],
+      "mode": "historical"
+    },
+    {
+      "chapter": 322,
+      "settings": [],
+      "mode": "essay"
+    },
+    {
+      "chapter": 323,
+      "settings": [
+        {
+          "place": "krasnoe",
+          "label": "Krasnoe · departure for Dobroe",
+          "paragraph": 0,
+          "evidenceChapter": 323,
+          "note": "Kutuzov leaves the battlefield for his relocated headquarters."
+        },
+        {
+          "place": "dobroe",
+          "label": "Dobroe · Russian headquarters",
+          "paragraph": 1,
+          "evidenceChapter": 323,
+          "note": "Kutuzov rides among prisoners on the road to Dobroe."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 324,
+      "settings": [
+        {
+          "place": "krasnoe-camp",
+          "label": "Unnamed village near the Krasnoe campaign route",
+          "paragraph": 1,
+          "evidenceChapter": 324,
+          "note": "The regiment camps by a village on the highroad on the last day of the Krasnoe battles. The village is not named."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 325,
+      "settings": [
+        {
+          "place": "krasnoe-camp",
+          "label": "Unnamed regimental bivouac · Krasnoe campaign",
+          "paragraph": 1,
+          "evidenceChapter": 324,
+          "note": "The soldiers’ campfire scenes continue at the unnamed village and forest edge introduced in chapter VII."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 326,
+      "settings": [
+        {
+          "place": "krasnoe-camp",
+          "label": "Unnamed regimental bivouac · Krasnoe campaign",
+          "paragraph": 1,
+          "evidenceChapter": 324,
+          "note": "The soldiers’ campfire scenes continue at the unnamed village and forest edge introduced in chapter VII."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 327,
+      "settings": [
+        {
+          "place": "berezina",
+          "label": "Berezina · retrospective crossing account",
+          "paragraph": 0,
+          "evidenceChapter": 327,
+          "note": "Historical account of the crossing; the chapter then moves on to Vilna."
+        },
+        {
+          "place": "vilna",
+          "label": "Vilna · Kutuzov’s headquarters and imperial arrival",
+          "paragraph": 10,
+          "evidenceChapter": 327,
+          "note": "Kutuzov arrives in Vilna, followed later by the Emperor."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 328,
+      "settings": [
+        {
+          "place": "vilna",
+          "label": "Vilna · court and headquarters",
+          "paragraph": 1,
+          "evidenceChapter": 328,
+          "note": "The imperial dinner and ball continue the Vilna episode."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 329,
+      "settings": [
+        {
+          "place": "orel",
+          "label": "Orel · Pierre’s convalescence",
+          "paragraph": 0,
+          "evidenceChapter": 329,
+          "note": "Pierre becomes ill in Orel and remains there while recovering."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 330,
+      "settings": [
+        {
+          "place": "orel",
+          "label": "Orel · Pierre’s lodgings",
+          "paragraph": 2,
+          "evidenceChapter": 330,
+          "note": "The princess nurses Pierre here; visitors and estate affairs reveal his changed outlook."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 331,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · return and rebuilding",
+          "paragraph": 0,
+          "evidenceChapter": 331,
+          "note": "The narrator describes the city’s repopulation after the French departure."
+        }
+      ],
+      "mode": "historical"
+    },
+    {
+      "chapter": 332,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Pierre’s house and Mary’s house on Vozdvizhenka",
+          "paragraph": 0,
+          "evidenceChapter": 332,
+          "note": "Pierre returns to Moscow and visits Mary in her surviving house."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 333,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Mary’s house on Vozdvizhenka",
+          "paragraph": 2,
+          "evidenceChapter": 332,
+          "note": "The conversation and dinner continue at Mary’s house where Pierre has come to visit."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 334,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Mary’s house on Vozdvizhenka",
+          "paragraph": 2,
+          "evidenceChapter": 332,
+          "note": "The conversation and dinner continue at Mary’s house where Pierre has come to visit."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 335,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Pierre’s lodgings and Mary’s house",
+          "paragraph": 0,
+          "evidenceChapter": 332,
+          "note": "Pierre postpones his planned Petersburg journey and continues his Moscow visits."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 336,
+      "settings": [],
+      "mode": "uncertain"
+    },
+    {
+      "chapter": 337,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Mary’s house",
+          "paragraph": 2,
+          "evidenceChapter": 332,
+          "note": "The narration returns to Natasha and Mary after Pierre’s first evening visit."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 338,
+      "settings": [],
+      "mode": "essay"
+    },
+    {
+      "chapter": 339,
+      "settings": [],
+      "mode": "essay"
+    },
+    {
+      "chapter": 340,
+      "settings": [],
+      "mode": "essay"
+    },
+    {
+      "chapter": 341,
+      "settings": [],
+      "mode": "essay"
+    },
+    {
+      "chapter": 342,
+      "settings": [
+        {
+          "place": "paris",
+          "label": "Paris · Nicholas with the army",
+          "paragraph": 5,
+          "evidenceChapter": 342,
+          "note": "Nicholas receives news of his father’s death while with the Russian army in Paris."
+        },
+        {
+          "place": "moscow",
+          "label": "Moscow · Rostovs’ small house in Sivtsev Vrazhok",
+          "paragraph": 9,
+          "evidenceChapter": 342,
+          "note": "Nicholas returns, takes civil employment and sets up a reduced household."
+        },
+        {
+          "place": "petersburg",
+          "label": "St Petersburg · Pierre and Natasha’s household",
+          "paragraph": 10,
+          "evidenceChapter": 342,
+          "note": "Their residence is explicitly stated as a parallel circumstance, not a visit by Nicholas."
+        }
+      ],
+      "mode": "multiple"
+    },
+    {
+      "chapter": 343,
+      "settings": [
+        {
+          "place": "moscow",
+          "label": "Moscow · Rostovs’ and Mary’s houses",
+          "paragraph": 0,
+          "evidenceChapter": 343,
+          "note": "Mary comes to Moscow and renews contact with Nicholas and his mother."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 344,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · Nicholas and Mary’s estate",
+          "paragraph": 0,
+          "evidenceChapter": 344,
+          "note": "Nicholas and Mary move here after marriage; the chapter follows his management of the estate."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 345,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · Rostov family household",
+          "paragraph": 0,
+          "evidenceChapter": 344,
+          "note": "The domestic and estate scenes continue at Bald Hills. Trips and other former residences are discussed without moving the present household scene."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 346,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · Rostov family household",
+          "paragraph": 0,
+          "evidenceChapter": 344,
+          "note": "The domestic and estate scenes continue at Bald Hills. Trips and other former residences are discussed without moving the present household scene."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 347,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · Rostov family household",
+          "paragraph": 0,
+          "evidenceChapter": 344,
+          "note": "The domestic and estate scenes continue at Bald Hills. Trips and other former residences are discussed without moving the present household scene."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 348,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · Rostov family household",
+          "paragraph": 0,
+          "evidenceChapter": 344,
+          "note": "The domestic and estate scenes continue at Bald Hills. Trips and other former residences are discussed without moving the present household scene."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 349,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · reunited household",
+          "paragraph": 0,
+          "evidenceChapter": 349,
+          "note": "The chapter explicitly names Bald Hills as the setting of Pierre’s return."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 350,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · drawing room and family bedrooms",
+          "paragraph": 0,
+          "evidenceChapter": 349,
+          "note": "The evening conversations continue in the Bald Hills household established in chapter XII."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 351,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · drawing room and family bedrooms",
+          "paragraph": 0,
+          "evidenceChapter": 349,
+          "note": "The evening conversations continue in the Bald Hills household established in chapter XII."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 352,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · drawing room and family bedrooms",
+          "paragraph": 0,
+          "evidenceChapter": 349,
+          "note": "The evening conversations continue in the Bald Hills household established in chapter XII."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 353,
+      "settings": [
+        {
+          "place": "baldhills",
+          "label": "Bald Hills · drawing room and family bedrooms",
+          "paragraph": 0,
+          "evidenceChapter": 349,
+          "note": "The evening conversations continue in the Bald Hills household established in chapter XII."
+        }
+      ],
+      "mode": "scene"
+    },
+    {
+      "chapter": 354,
+      "settings": [],
+      "mode": "essay"
+    },
+    {
+      "chapter": 355,
+      "settings": [],
+      "mode": "essay"
+    },
+    {
+      "chapter": 356,
+      "settings": [],
+      "mode": "essay"
+    },
+    {
+      "chapter": 357,
+      "settings": [],
+      "mode": "essay"
+    },
+    {
+      "chapter": 358,
+      "settings": [],
+      "mode": "essay"
+    },
+    {
+      "chapter": 359,
+      "settings": [],
+      "mode": "essay"
+    },
+    {
+      "chapter": 360,
+      "settings": [],
+      "mode": "essay"
+    },
+    {
+      "chapter": 361,
+      "settings": [],
+      "mode": "essay"
+    },
+    {
+      "chapter": 362,
+      "settings": [],
+      "mode": "essay"
+    },
+    {
+      "chapter": 363,
+      "settings": [],
+      "mode": "essay"
+    },
+    {
+      "chapter": 364,
+      "settings": [],
+      "mode": "essay"
+    },
+    {
+      "chapter": 365,
+      "settings": [],
+      "mode": "essay"
+    }
+  ],
+  "places": [
+    {
+      "id": "enns",
+      "name": "Enns",
+      "lon": 14.48,
+      "lat": 48.21,
+      "kind": "city",
+      "coordinateSource": "https://www.donauregion.at/en/cultural-area-danube/oesterreich-stadt-ort/detail/430001046/enns.html"
+    },
+    {
+      "id": "krems",
+      "name": "Krems an der Donau",
+      "lon": 15.61415,
+      "lat": 48.40921,
+      "kind": "city",
+      "coordinateSource": "https://www.geonames.org/2773549"
+    },
+    {
+      "id": "hollabrunn",
+      "name": "Hollabrünn / Hollabrunn",
+      "lon": 16.0798,
+      "lat": 48.56254,
+      "kind": "city",
+      "coordinateSource": "https://mapcarta.com/17896950"
+    },
+    {
+      "id": "olmutz",
+      "name": "Olmütz / Olomouc",
+      "lon": 17.2512347,
+      "lat": 49.5937867,
+      "kind": "city",
+      "coordinateSource": "https://www.olomouc.eu/administrace/repository/tourism/materialy-ke-stazeni/olomouc-do-kapsy/olomouc-do-kapsy.en.pdf"
+    },
+    {
+      "id": "wischau",
+      "name": "Wischau / Vyškov",
+      "lon": 16.99889,
+      "lat": 49.2775,
+      "kind": "city",
+      "coordinateSource": "https://en.wikipedia.org/wiki/Vy%C5%A1kov"
+    },
+    {
+      "id": "torzhok",
+      "name": "Torzhok",
+      "lon": 34.95996,
+      "lat": 57.04132,
+      "kind": "city",
+      "coordinateSource": "https://mapcarta.com/13309648"
+    },
+    {
+      "id": "tilsit",
+      "name": "Tilsit / Sovetsk",
+      "lon": 21.8883,
+      "lat": 55.081,
+      "kind": "city",
+      "coordinateSource": "https://mapcarta.com/Sovetsk"
+    },
+    {
+      "id": "dresden",
+      "name": "Dresden",
+      "lon": 13.73832,
+      "lat": 51.05089,
+      "kind": "city",
+      "coordinateSource": "https://maechtekongresse.acdh.oeaw.ac.at/loc_13.html"
+    },
+    {
+      "id": "tver",
+      "name": "Tver",
+      "lon": 35.90057,
+      "lat": 56.85836,
+      "kind": "city",
+      "coordinateSource": "https://www.geonames.org/480060/tver.html"
+    },
+    {
+      "id": "kremenchug",
+      "name": "Kremenchug / Kremenchuk",
+      "lon": 33.41666667,
+      "lat": 49.06666667,
+      "kind": "city",
+      "coordinateSource": "https://ungegn.un.org/dashboard/cities/details?id=1173"
+    },
+    {
+      "id": "rykonty",
+      "name": "Rykonty / Rykantai",
+      "lon": 24.98655,
+      "lat": 54.71654,
+      "kind": "city",
+      "coordinateSource": "https://www.geonames.org/595075/rykantai.html"
+    },
+    {
+      "id": "ostrovna",
+      "name": "Ostrovna / Ostrovno",
+      "lon": 29.85143,
+      "lat": 55.13936,
+      "kind": "city",
+      "coordinateSource": "https://mapcarta.com/13593534"
+    },
+    {
+      "id": "tsarevo-zaymishche",
+      "name": "Tsarevo-Zaymishche (Smolensk)",
+      "lon": 34.81947,
+      "lat": 55.428,
+      "kind": "city",
+      "coordinateSource": "https://mapcarta.com/13307812"
+    },
+    {
+      "id": "maloyaroslavets",
+      "name": "Maloyaroslavets",
+      "lon": 36.461351,
+      "lat": 55.012667,
+      "kind": "city",
+      "coordinateSource": "https://discoverrussia.travel/things-to-do/maloyaroslavets"
+    },
+    {
+      "id": "vyazma",
+      "name": "Vyazma",
+      "lon": 34.2912,
+      "lat": 55.2107,
+      "kind": "city",
+      "coordinateSource": "https://en.wikipedia.org/wiki/Vyazma"
+    },
+    {
+      "id": "krasnoe",
+      "name": "Krasnoe / Krasny (Smolensk)",
+      "lon": 31.43,
+      "lat": 54.56,
+      "kind": "city",
+      "coordinateSource": "https://en.wikipedia.org/wiki/Krasny%2C_Krasninsky_District%2C_Smolensk_Oblast"
+    },
+    {
+      "id": "drissa",
+      "name": "Drissa / Verkhnyadzvinsk",
+      "lon": 27.95,
+      "lat": 55.783333,
+      "kind": "city",
+      "coordinateSource": "https://cdp.jewishgen.org/eastern-europe/belarus/vyerkhvyadzvinsk-vitebsk"
+    },
+    {
+      "id": "mozhaisk",
+      "name": "Mozhaisk / Mozhaysk",
+      "lon": 36.033333,
+      "lat": 55.516667,
+      "kind": "city",
+      "coordinateSource": "https://en.wikipedia.org/wiki/Mozhaysk"
+    },
+    {
+      "id": "mytishchi",
+      "name": "Mytishchi",
+      "lon": 37.72964,
+      "lat": 55.91099,
+      "kind": "city",
+      "coordinateSource": "https://www.geodatos.net/en/coordinates/russia/mytishchi"
+    },
+    {
+      "id": "kovno",
+      "name": "Kovno / Kaunas",
+      "lon": 23.90909,
+      "lat": 54.90156,
+      "kind": "city",
+      "coordinateSource": "https://www.geonames.org/598316/kaunas.html"
+    },
+    {
+      "id": "troitsa",
+      "name": "Troitsa monastery / Sergiev Posad",
+      "lon": 38.1312,
+      "lat": 56.31035,
+      "kind": "city",
+      "coordinateSource": "https://whc.unesco.org/en/list/657/",
+      "identitySource": "https://www.xn--80aawid7ald.xn--p1ai/avtory/tolstoy-lev-nikolaevich/",
+      "coordinateNote": "Reference point for the monastery complex, not the precise site of the 1812 hostelry."
+    },
+    {
+      "id": "hetzelsdorf-road",
+      "name": "Road near Hetzelsdorf",
+      "kind": "unlocated"
+    },
+    {
+      "id": "bartenstein-area",
+      "name": "Army camp near Bartenstein",
+      "kind": "unlocated"
+    },
+    {
+      "id": "bartenstein-outposts",
+      "name": "Outposts beyond Bartenstein",
+      "kind": "unlocated"
+    },
+    {
+      "id": "prussian-hospital",
+      "name": "Unnamed Prussian town",
+      "kind": "unlocated"
+    },
+    {
+      "id": "ryazan-road",
+      "name": "Road to the Ryazan estates",
+      "kind": "unlocated"
+    },
+    {
+      "id": "mikhaylovna",
+      "name": "Mikhaylovna: Uncle’s house",
+      "kind": "unlocated"
+    },
+    {
+      "id": "melyukovka",
+      "name": "Melyukovka: the neighbors’ house",
+      "kind": "unlocated"
+    },
+    {
+      "id": "moldavia",
+      "name": "Moldavia / Turkish campaign: Andrew’s service",
+      "kind": "unlocated"
+    },
+    {
+      "id": "pavlograd-bivouac",
+      "name": "Pavlograd bivouac during the July retreat",
+      "kind": "unlocated"
+    },
+    {
+      "id": "yankovo",
+      "name": "Yankovo: departure of Rostov and Ilyin",
+      "kind": "unlocated"
+    },
+    {
+      "id": "echkino",
+      "name": "Echkino",
+      "kind": "unlocated"
+    },
+    {
+      "id": "letashovka",
+      "name": "Letashovka",
+      "kind": "unlocated"
+    },
+    {
+      "id": "aristovo",
+      "name": "Aristovo",
+      "kind": "unlocated"
+    },
+    {
+      "id": "shamshevo",
+      "name": "Mikulino–Shamshevo road and adjoining forest",
+      "kind": "unlocated"
+    },
+    {
+      "id": "smolensk-road",
+      "name": "Smolensk road",
+      "kind": "unlocated"
+    },
+    {
+      "id": "dobroe",
+      "name": "Dobroe",
+      "kind": "unlocated"
+    },
+    {
+      "id": "krasnoe-camp",
+      "name": "Unnamed village near the Krasnoe campaign route",
+      "kind": "unlocated"
+    },
+    {
+      "id": "berezina",
+      "name": "Berezina",
+      "kind": "unlocated"
+    }
+  ]
+}

@@ -1,0 +1,661 @@
+{
+  "places": [
+    {
+      "id": "yaroslavl",
+      "name": "Yaroslavl",
+      "lon": 39.866667,
+      "lat": 57.616667,
+      "kind": "city",
+      "coordinateSource": "https://ungegn.un.org/dashboard/cities/details?id=1713"
+    },
+    {
+      "id": "orel",
+      "name": "Orel / Oryol",
+      "lon": 36.07573,
+      "lat": 52.96732,
+      "kind": "city",
+      "coordinateSource": "https://maps.apple.com/place?auid=6272636917803495083"
+    },
+    {
+      "id": "voronezh",
+      "name": "Voronezh",
+      "lon": 39.19204,
+      "lat": 51.66833,
+      "kind": "city",
+      "coordinateSource": "https://www.geonames.org/472045/voronezh.html"
+    }
+  ],
+  "observations": [
+    {
+      "id": "loc001",
+      "character": "anna",
+      "place": "petersburg",
+      "chapter": 1,
+      "paragraph": 1,
+      "kind": "present",
+      "note": "Anna hosts the reception; the narrator identifies Petersburg in this paragraph."
+    },
+    {
+      "id": "loc002",
+      "character": "vasili",
+      "place": "petersburg",
+      "chapter": 1,
+      "paragraph": 1,
+      "kind": "arrived",
+      "note": "Vasili is the first guest to arrive at Anna’s Petersburg reception."
+    },
+    {
+      "id": "loc003",
+      "character": "pierre",
+      "place": "petersburg",
+      "chapter": 2,
+      "paragraph": 9,
+      "kind": "arrived",
+      "note": "Pierre enters Anna’s reception; chapter 1 establishes the city."
+    },
+    {
+      "id": "loc004",
+      "character": "andrei",
+      "place": "petersburg",
+      "chapter": 4,
+      "paragraph": 0,
+      "kind": "arrived",
+      "note": "Andrew enters the same Petersburg drawing room."
+    },
+    {
+      "id": "loc005",
+      "character": "natasha",
+      "place": "moscow",
+      "chapter": 11,
+      "paragraph": 5,
+      "kind": "present",
+      "note": "Natasha is with her parents at the Rostov name-day reception; chapter 10 identifies their Moscow house."
+    },
+    {
+      "id": "loc006",
+      "character": "nikolai",
+      "place": "moscow",
+      "chapter": 11,
+      "paragraph": 12,
+      "kind": "present",
+      "note": "Nicholas is among the young people in the Rostovs’ Moscow drawing room."
+    },
+    {
+      "id": "loc007",
+      "character": "sonya",
+      "place": "moscow",
+      "chapter": 11,
+      "paragraph": 12,
+      "kind": "present",
+      "note": "Sonya joins the young people at the Moscow name-day gathering."
+    },
+    {
+      "id": "loc008",
+      "character": "pierre",
+      "place": "moscow",
+      "chapter": 24,
+      "paragraph": 0,
+      "kind": "present",
+      "note": "Pierre enters the reception room of his dying father’s Moscow house; the preceding chapters establish the setting."
+    },
+    {
+      "id": "loc009",
+      "character": "marya",
+      "place": "baldhills",
+      "chapter": 25,
+      "paragraph": 0,
+      "kind": "present",
+      "note": "The narrator places Mary in her father’s household at Bald Hills; the estate is fictional and unpinned."
+    },
+    {
+      "id": "loc010",
+      "character": "andrei",
+      "place": "baldhills",
+      "chapter": 26,
+      "paragraph": 1,
+      "kind": "arrived",
+      "note": "Andrew alights from the carriage at his father’s house; chapter 25 identifies Bald Hills."
+    },
+    {
+      "id": "loc011",
+      "character": "lise",
+      "place": "baldhills",
+      "chapter": 26,
+      "paragraph": 1,
+      "kind": "arrived",
+      "note": "Andrew helps his wife out of the carriage at Bald Hills."
+    },
+    {
+      "id": "loc012",
+      "character": "kutuzov",
+      "place": "braunau",
+      "chapter": 31,
+      "paragraph": 0,
+      "kind": "present",
+      "note": "Kutuzov returns from the review to his quarters; chapter 29 names Braunau as headquarters."
+    },
+    {
+      "id": "loc013",
+      "character": "andrei",
+      "place": "braunau",
+      "chapter": 31,
+      "paragraph": 0,
+      "kind": "present",
+      "note": "Andrew brings papers into Kutuzov’s room at the Braunau headquarters."
+    },
+    {
+      "id": "loc014",
+      "character": "andrei",
+      "place": "brunn",
+      "chapter": 38,
+      "paragraph": 0,
+      "kind": "present",
+      "note": "The narrator explicitly says Andrew stays with Bilibin at Brünn."
+    },
+    {
+      "id": "loc015",
+      "character": "andrei",
+      "place": "brunn",
+      "chapter": 41,
+      "paragraph": 0,
+      "kind": "departed",
+      "note": "Andrew leaves after his audience to seek the army; chapter 38 establishes his Brünn stay. No destination arrival is inferred."
+    },
+    {
+      "id": "loc017",
+      "character": "tushin",
+      "place": "schongraben",
+      "chapter": 47,
+      "paragraph": 0,
+      "kind": "present",
+      "note": "Tushin’s battery fires on Schön Grabern; this is the battlefield area, not a claim that he stands inside the village."
+    },
+    {
+      "id": "loc016",
+      "character": "nikolai",
+      "place": "schongraben",
+      "chapter": 49,
+      "paragraph": 7,
+      "kind": "present",
+      "note": "The wounded Rostov is placed on Tushin’s gun during the retreat from Schöngrabern; the battlefield node denotes the action area."
+    },
+    {
+      "id": "loc022",
+      "character": "pierre",
+      "place": "petersburg",
+      "chapter": 51,
+      "paragraph": 51,
+      "kind": "arrived",
+      "note": "The narrator says Pierre has married and settled in his Petersburg house."
+    },
+    {
+      "id": "loc018",
+      "character": "andrei",
+      "place": "austerlitz",
+      "chapter": 65,
+      "paragraph": 2,
+      "kind": "present",
+      "note": "Andrew stands near Kutuzov during the battle of Austerlitz; the node denotes the battlefield area."
+    },
+    {
+      "id": "loc019",
+      "character": "kutuzov",
+      "place": "austerlitz",
+      "chapter": 65,
+      "paragraph": 2,
+      "kind": "present",
+      "note": "Kutuzov speaks with an Austrian general as the battle develops; battlefield-area location."
+    },
+    {
+      "id": "loc020",
+      "character": "andrei",
+      "place": "pratzen",
+      "chapter": 68,
+      "paragraph": 0,
+      "kind": "present",
+      "note": "The opening sentence explicitly locates wounded Andrew on the Pratzen Heights."
+    },
+    {
+      "id": "loc021",
+      "character": "napoleon",
+      "place": "pratzen",
+      "chapter": 68,
+      "paragraph": 7,
+      "kind": "present",
+      "note": "Napoleon stops beside Andrew; paragraph 0 fixes Andrew’s position on the Pratzen Heights."
+    },
+    {
+      "id": "loc024",
+      "character": "nikolai",
+      "place": "moscow",
+      "chapter": 70,
+      "paragraph": 0,
+      "kind": "arrived",
+      "note": "The opening sentence explicitly describes Nicholas’s return to Moscow from the army."
+    },
+    {
+      "id": "loc025",
+      "character": "pierre",
+      "place": "moscow",
+      "chapter": 74,
+      "paragraph": 0,
+      "kind": "present",
+      "note": "After the duel, Pierre remains in his late father’s room; the Moscow sequence supplies the setting."
+    },
+    {
+      "id": "loc026",
+      "character": "andrei",
+      "place": "baldhills",
+      "chapter": 77,
+      "paragraph": 0,
+      "kind": "present",
+      "note": "Andrew enters his wife’s room during childbirth in the Bald Hills household."
+    },
+    {
+      "id": "loc027",
+      "character": "pierre",
+      "place": "petersburg",
+      "chapter": 87,
+      "paragraph": 0,
+      "kind": "arrived",
+      "note": "The paragraph explicitly reports Pierre reaching Petersburg and staying in his rooms."
+    },
+    {
+      "id": "loc028",
+      "character": "pierre",
+      "place": "bogucharovo",
+      "chapter": 95,
+      "paragraph": 2,
+      "kind": "arrived",
+      "note": "Pierre is helped out of his carriage and shown into Andrew’s lodge; paragraph 1 names Bogucharovo."
+    },
+    {
+      "id": "loc029",
+      "character": "andrei",
+      "place": "bogucharovo",
+      "chapter": 95,
+      "paragraph": 8,
+      "kind": "present",
+      "note": "Andrew comes out to greet Pierre inside the Bogucharovo lodge."
+    },
+    {
+      "id": "loc030",
+      "character": "pierre",
+      "place": "baldhills",
+      "chapter": 97,
+      "paragraph": 0,
+      "kind": "arrived",
+      "note": "Andrew and Pierre drive up to the house at Bald Hills; an explicit arrival, not merely the planned trip in chapter 96."
+    },
+    {
+      "id": "loc031",
+      "character": "andrei",
+      "place": "baldhills",
+      "chapter": 97,
+      "paragraph": 0,
+      "kind": "arrived",
+      "note": "Andrew and Pierre arrive together at the front entrance at Bald Hills."
+    },
+    {
+      "id": "loc032",
+      "character": "andrei",
+      "place": "otradnoe",
+      "chapter": 108,
+      "paragraph": 2,
+      "kind": "arrived",
+      "note": "Andrew drives up the avenue of the Rostovs’ house at Otradnoe."
+    },
+    {
+      "id": "loc033",
+      "character": "natasha",
+      "place": "otradnoe",
+      "chapter": 108,
+      "paragraph": 5,
+      "kind": "present",
+      "note": "Andrew watches Natasha among the young people during his stay at Otradnoe."
+    },
+    {
+      "id": "loc034",
+      "character": "andrei",
+      "place": "petersburg",
+      "chapter": 110,
+      "paragraph": 0,
+      "kind": "arrived",
+      "note": "The narrator explicitly dates Andrew’s arrival in Petersburg to August 1809."
+    },
+    {
+      "id": "loc035",
+      "character": "natasha",
+      "place": "petersburg",
+      "chapter": 122,
+      "paragraph": 11,
+      "kind": "present",
+      "note": "Natasha dances at the Petersburg ball established in chapters 120–121."
+    },
+    {
+      "id": "loc036",
+      "character": "nikolai",
+      "place": "otradnoe",
+      "chapter": 133,
+      "paragraph": 6,
+      "kind": "arrived",
+      "note": "After the journey from his regiment, Nicholas runs up the steps of his home at Otradnoe."
+    },
+    {
+      "id": "loc037",
+      "character": "natasha",
+      "place": "otradnoe",
+      "chapter": 135,
+      "paragraph": 13,
+      "kind": "present",
+      "note": "Natasha enters as Nicholas prepares the hunt; the sequence takes place at the Otradnoe estate."
+    },
+    {
+      "id": "loc038",
+      "character": "pierre",
+      "place": "moscow",
+      "chapter": 146,
+      "paragraph": 1,
+      "kind": "arrived",
+      "note": "Pierre enters his Moscow house and feels at home again in the city."
+    },
+    {
+      "id": "loc039",
+      "character": "marya",
+      "place": "moscow",
+      "chapter": 147,
+      "paragraph": 0,
+      "kind": "arrived",
+      "note": "Mary and her father move to Moscow at the beginning of winter."
+    },
+    {
+      "id": "loc040",
+      "character": "natasha",
+      "place": "moscow",
+      "chapter": 151,
+      "paragraph": 0,
+      "kind": "arrived",
+      "note": "Count Rostov comes to Moscow with Natasha and Sonya, staying with Marya Dmitrievna."
+    },
+    {
+      "id": "loc041",
+      "character": "anatole",
+      "place": "moscow",
+      "chapter": 156,
+      "paragraph": 0,
+      "kind": "present",
+      "note": "The narrator explicitly says Anatole is staying in Moscow after being sent away from Petersburg."
+    },
+    {
+      "id": "loc044",
+      "character": "alexander",
+      "place": "vilna",
+      "chapter": 170,
+      "paragraph": 0,
+      "kind": "present",
+      "note": "The Russian emperor has been in Vilna for more than a month, reviewing troops."
+    },
+    {
+      "id": "loc045",
+      "character": "napoleon",
+      "place": "vilna",
+      "chapter": 172,
+      "paragraph": 18,
+      "kind": "present",
+      "note": "Napoleon receives Balashev in the same Vilna house from which Alexander dispatched him."
+    },
+    {
+      "id": "loc042",
+      "character": "andrei",
+      "place": "petersburg",
+      "chapter": 175,
+      "paragraph": 0,
+      "kind": "departed",
+      "note": "Andrew meets Kutuzov in Petersburg, then leaves for service in Turkey; both movements are reported retrospectively in this paragraph."
+    },
+    {
+      "id": "loc043",
+      "character": "kutuzov",
+      "place": "petersburg",
+      "chapter": 175,
+      "paragraph": 0,
+      "kind": "present",
+      "note": "While in Petersburg, Andrew meets Kutuzov before their Moldavian service; reported retrospectively."
+    },
+    {
+      "id": "loc046",
+      "character": "andrei",
+      "place": "baldhills",
+      "chapter": 195,
+      "paragraph": 3,
+      "kind": "arrived",
+      "note": "Andrew rides into his father’s abandoned estate and examines its grounds."
+    },
+    {
+      "id": "loc047",
+      "character": "marya",
+      "place": "bogucharovo",
+      "chapter": 198,
+      "paragraph": 7,
+      "kind": "arrived",
+      "note": "The household reaches Bogucharovo with the stricken old prince; Mary remains with him in the ensuing scene."
+    },
+    {
+      "id": "loc048",
+      "character": "nikolai",
+      "place": "bogucharovo",
+      "chapter": 203,
+      "paragraph": 38,
+      "kind": "present",
+      "note": "Nicholas is shown into Mary’s sitting room in the Bogucharovo house."
+    },
+    {
+      "id": "loc049",
+      "character": "marya",
+      "place": "bogucharovo",
+      "chapter": 204,
+      "paragraph": 43,
+      "kind": "departed",
+      "note": "Mary’s carriage leaves Bogucharovo under Nicholas’s escort; no arrival at Moscow is inferred from this departure."
+    },
+    {
+      "id": "loc050",
+      "character": "nikolai",
+      "place": "bogucharovo",
+      "chapter": 204,
+      "paragraph": 43,
+      "kind": "departed",
+      "note": "Nicholas accompanies Mary eight miles out of Bogucharovo before taking leave at Yankovo."
+    },
+    {
+      "id": "loc051",
+      "character": "pierre",
+      "place": "borodino",
+      "chapter": 213,
+      "paragraph": 0,
+      "kind": "present",
+      "note": "Pierre’s party crosses into Borodino village and continues to the redoubt; the node denotes the battle area."
+    },
+    {
+      "id": "loc053",
+      "character": "kutuzov",
+      "place": "borodino",
+      "chapter": 225,
+      "paragraph": 0,
+      "kind": "present",
+      "note": "Kutuzov remains at his command position during the battle; the node denotes the battlefield area."
+    },
+    {
+      "id": "loc052",
+      "character": "andrei",
+      "place": "borodino",
+      "chapter": 226,
+      "paragraph": 11,
+      "kind": "present",
+      "note": "Andrew is wounded in the Borodino action; his regiment’s position near Semenovsk is given in paragraph 0."
+    },
+    {
+      "id": "loc054",
+      "character": "natasha",
+      "place": "moscow",
+      "chapter": 246,
+      "paragraph": 31,
+      "kind": "departed",
+      "note": "Natasha watches Moscow’s walls recede from the departing family carriage."
+    },
+    {
+      "id": "loc055",
+      "character": "pierre",
+      "place": "moscow",
+      "chapter": 247,
+      "paragraph": 0,
+      "kind": "present",
+      "note": "Pierre is staying in Bazdeev’s empty house; paragraph 1 establishes his return to Moscow."
+    },
+    {
+      "id": "loc063",
+      "character": "nikolai",
+      "place": "voronezh",
+      "chapter": 267,
+      "paragraph": 7,
+      "kind": "arrived",
+      "note": "Nicholas explicitly arrives at a Voronezh hotel to arrange remounts; the passage looks back to before Borodino."
+    },
+    {
+      "id": "loc064",
+      "character": "marya",
+      "place": "voronezh",
+      "chapter": 270,
+      "paragraph": 4,
+      "kind": "present",
+      "note": "Nicholas recognizes Mary in church; paragraph 0 and the preceding chapters identify Voronezh."
+    },
+    {
+      "id": "loc056",
+      "character": "karataev",
+      "place": "moscow",
+      "chapter": 275,
+      "paragraph": 30,
+      "kind": "present",
+      "note": "Karataev introduces himself to Pierre in the prison shed; chapters 274–275 establish the Moscow captivity setting."
+    },
+    {
+      "id": "loc060",
+      "character": "marya",
+      "place": "yaroslavl",
+      "chapter": 277,
+      "paragraph": 16,
+      "kind": "arrived",
+      "note": "Mary leaves the carriage and enters the Rostovs’ lodgings; paragraphs 8–9 identify the house in Yaroslavl."
+    },
+    {
+      "id": "loc062",
+      "character": "natasha",
+      "place": "yaroslavl",
+      "chapter": 277,
+      "paragraph": 29,
+      "kind": "present",
+      "note": "Natasha comes into the room where Mary has arrived at the Yaroslavl house."
+    },
+    {
+      "id": "loc061",
+      "character": "andrei",
+      "place": "yaroslavl",
+      "chapter": 278,
+      "paragraph": 2,
+      "kind": "present",
+      "note": "Andrew lies in the room Mary enters; chapter 277 establishes the Yaroslavl lodgings."
+    },
+    {
+      "id": "loc057",
+      "character": "napoleon",
+      "place": "moscow",
+      "chapter": 288,
+      "paragraph": 0,
+      "kind": "arrived",
+      "note": "The narrator explicitly describes orders given immediately on Napoleon’s entry into Moscow; retrospective report."
+    },
+    {
+      "id": "loc058",
+      "character": "kutuzov",
+      "place": "vilna",
+      "chapter": 327,
+      "paragraph": 10,
+      "kind": "arrived",
+      "note": "The narrator explicitly reports Kutuzov entering Vilna on November 29."
+    },
+    {
+      "id": "loc059",
+      "character": "pierre",
+      "place": "orel",
+      "chapter": 329,
+      "paragraph": 0,
+      "kind": "arrived",
+      "note": "After liberation Pierre reaches Orel and becomes ill. His intended onward trip to Kiev is not recorded as an arrival."
+    },
+    {
+      "id": "loc065",
+      "character": "pierre",
+      "place": "moscow",
+      "chapter": 332,
+      "paragraph": 0,
+      "kind": "arrived",
+      "note": "Pierre returns to Moscow at the end of January and stays in an unburned annex of his house."
+    },
+    {
+      "id": "loc067",
+      "character": "marya",
+      "place": "moscow",
+      "chapter": 332,
+      "paragraph": 10,
+      "kind": "present",
+      "note": "Mary rises to greet Pierre in her Moscow house on Vozdvizhenka Street."
+    },
+    {
+      "id": "loc066",
+      "character": "natasha",
+      "place": "moscow",
+      "chapter": 332,
+      "paragraph": 19,
+      "kind": "present",
+      "note": "Pierre recognizes Natasha in Mary’s house; paragraphs 2 and 5 establish the Moscow address."
+    },
+    {
+      "id": "loc068",
+      "character": "nikolai",
+      "place": "baldhills",
+      "chapter": 344,
+      "paragraph": 0,
+      "kind": "arrived",
+      "note": "Nicholas marries Mary and moves to Bald Hills in the winter of 1813."
+    },
+    {
+      "id": "loc069",
+      "character": "marya",
+      "place": "baldhills",
+      "chapter": 344,
+      "paragraph": 0,
+      "kind": "arrived",
+      "note": "Mary establishes her married household with Nicholas at Bald Hills."
+    },
+    {
+      "id": "loc070",
+      "character": "natasha",
+      "place": "baldhills",
+      "chapter": 346,
+      "paragraph": 0,
+      "kind": "present",
+      "note": "Natasha has been staying at her brother’s household since autumn; chapters 344 and 349 identify Bald Hills."
+    },
+    {
+      "id": "loc071",
+      "character": "pierre",
+      "place": "baldhills",
+      "chapter": 349,
+      "paragraph": 1,
+      "kind": "arrived",
+      "note": "The Bald Hills household celebrates Pierre’s return; paragraph 0 explicitly names the estate."
+    }
+  ],
+  "methodology": "Selected physical-location observations verified against the Maude text, not an exhaustive itinerary. Chapter IDs are global (1–365); paragraph indices are zero-based. Each observation is gated by the chapter where the reader receives it. Some passages report earlier journeys retrospectively, so narrative order must not be mistaken for an exact story-time route. A last recorded sighting does not establish continued presence, being alive, or a current whereabouts. A departure means that the person has left that node; it is not a new destination. Missing observations mean unrecorded, not absent. Notes distinguish explicit arrivals, scene context, and battlefield-area grouping. Geographic markers identify cities or broad battle areas, not exact scene addresses; the fictional estates remain unpinned. Connecting lines show a sequence of sourced observations, not verified travel routes or direct journeys. New-city coordinates are reference markers from the linked geographic sources."
+}

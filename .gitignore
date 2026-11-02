@@ -1,0 +1,4 @@
+.openai/
+dist/qa-*.html
+__pycache__/
+.DS_Store
