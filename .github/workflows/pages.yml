@@ -18,7 +18,9 @@ jobs:
           node --check dist/app.js
           node --check dist/workspace.js
           node --check dist/atlas.js
+          node --check dist/campaign.js
           node validate.cjs
+          node validate-campaign.cjs
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Stage the same layout as branch-based Pages

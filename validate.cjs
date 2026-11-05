@@ -4,6 +4,7 @@ assert.equal(data.text.chapters.length,365);assert.equal(data.text.books.length,
 for(const key of ['events','knowledge','relations'])for(const item of data.editorial[key]){const c=data.text.chapters[item.chapter-1];assert(c&&c.paragraphs[item.paragraph],JSON.stringify(item));}
 const context=vm.createContext({console,localStorage:{getItem(){return null}},document:{addEventListener(){}},data});
 vm.runInContext(fs.readFileSync('dist/workspace.js','utf8'),context);
+vm.runInContext(fs.readFileSync('dist/campaign.js','utf8'),context);
 vm.runInContext(fs.readFileSync('dist/atlas.js','utf8'),context);
 vm.runInContext(fs.readFileSync('dist/app.js','utf8').split("Promise.all(['text'")[0],context);
 vm.runInContext('T=data.text;I=data.index;E=data.editorial;G=data.geography;L=data.locations;A=data.settings;for(const p of L.places||[])I.places.push({...p,first:Math.min(...L.observations.filter(o=>o.place===p.id).map(o=>o.chapter)),hits:[],aliases:[]});',context);
