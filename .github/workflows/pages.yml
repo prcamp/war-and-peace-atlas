@@ -19,6 +19,7 @@ jobs:
           node --check dist/workspace.js
           node --check dist/atlas.js
           node --check dist/campaign.js
+          node --check dist/territory.js
           node validate.cjs
           node validate-campaign.cjs
       - name: Configure Pages

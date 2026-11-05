@@ -29,8 +29,25 @@ html{scroll-padding-top:180px}body{overflow-x:hidden}.workspace-main,.workspace-
 .campaign-panel{display:flex;justify-content:space-between;gap:24px;align-items:center;margin:16px 0;padding:18px 20px;background:#eee9dc;border:1px solid #ddd3bf;border-radius:8px}
 .campaign-panel h2{font:26px var(--serif);margin:5px 0 6px}.campaign-panel p{font-size:12px;line-height:1.6;color:#606658;max-width:610px;margin:0}
 .campaign-legend{display:grid;grid-template-columns:1fr 1fr;gap:10px 18px;flex-shrink:0;font-size:11px;color:#4b554c}.campaign-legend span{display:flex;align-items:center;gap:7px}.campaign-legend i{display:inline-block;width:22px;height:9px;border-radius:3px}.campaign-legend .advance{background:#cf7754}.campaign-legend .past{background:#d8bb99}.campaign-legend .withdrawal{background:#62858e}.campaign-legend b{font-size:14px;color:#883e25;width:22px;text-align:center}
-.campaign-band{fill:none;stroke-linecap:round;stroke-linejoin:round;opacity:.48;pointer-events:none}.campaign-band.advance{stroke:#d7835e}.campaign-band.past{stroke:#d8bb99;opacity:.4}.campaign-band.withdrawal{stroke:#648d9b;opacity:.55}.campaign-route{fill:none;stroke-linejoin:round;stroke-linecap:round;stroke-width:2;pointer-events:none}.campaign-route.advance{stroke:#a45032}.campaign-route.past{stroke:#b69a77;stroke-dasharray:3 5}.campaign-route.withdrawal{stroke:#386878;stroke-dasharray:7 4;stroke-width:2.5}.campaign-front path{stroke:#fffcf4;stroke-width:2}.campaign-front .advance{fill:#a45032}.campaign-front .withdrawal{fill:#386878}
+.campaign-route{fill:none;stroke-linejoin:round;stroke-linecap:round;stroke-width:2;pointer-events:none}.campaign-route.advance{stroke:#a45032;stroke-width:2.5}.campaign-route.past{stroke:#b69a77;stroke-dasharray:3 5}.campaign-route.withdrawal{stroke:#386878;stroke-dasharray:7 4;stroke-width:2.5}.campaign-front path{stroke:#fffcf4;stroke-width:2}.campaign-front .advance{fill:#a45032}.campaign-front .withdrawal{fill:#386878}
 .period-label{pointer-events:none}.period-label text{font-family:Georgia,serif;font-size:12px;letter-spacing:1.3px;fill:#6e7260;paint-order:stroke;stroke:#eae5d6;stroke-width:3px;stroke-linejoin:round;opacity:.95}
 .campaign-sources{margin-top:16px}.campaign-sources p{max-width:850px;line-height:1.7}.campaign-sources li{margin:9px 0}.chapter-setting-heading{margin-top:12px}
 @media(max-width:700px){.campaign-panel{display:block;padding:14px}.campaign-panel h2{font-size:23px}.campaign-legend{margin-top:14px;gap:9px;font-size:10px}.period-label text{font-size:10px;letter-spacing:.6px}.campaign-panel .eyebrow{font-size:9px}}
 .campaign-town{pointer-events:none}.campaign-town circle{fill:#8b543d;stroke:#f7f2e7;stroke-width:1}.campaign-town text{font:11px Georgia,serif;fill:#65462e;paint-order:stroke;stroke:#f0e7d8;stroke-width:4px;stroke-linejoin:round}.campaign-evidence{font-size:11px;padding:4px 0;margin-top:4px}
+
+/* Sovereign borders, annexations and military control are independent layers. */
+.period-border{fill:none;stroke:#777e69;stroke-width:.8;stroke-linejoin:round}
+.territory-layer{pointer-events:none}
+.territory-acquired{fill:#966887}
+.territory-occupied{fill:#c39ab0}
+.territory-earlier{fill:#d8c5d0}
+.territory-legend{display:flex;flex-wrap:wrap;gap:8px 18px;align-items:center;margin:10px 0;color:#57564d;font-size:11px}
+.territory-legend strong{font-weight:600}
+.territory-legend span{display:inline-flex;align-items:center;gap:6px}
+.territory-legend i{width:18px;height:9px;border-radius:2px}
+.territory-legend .territory-acquired{background:#966887}
+.territory-legend .territory-occupied{background:#c39ab0}
+.territory-legend .territory-earlier{background:#d8c5d0}
+.map-tools button[data-map="europe"]{font-size:11px;padding:8px 12px}
+
+@media(max-width:760px){.europe-overview .period-label text{font-size:8px;letter-spacing:0}.europe-overview .campaign-town text{display:none}.territory-legend{gap:5px 12px}.territory-legend strong{flex-basis:100%}}

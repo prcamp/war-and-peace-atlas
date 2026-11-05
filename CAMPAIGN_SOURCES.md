@@ -1,6 +1,6 @@
 # French campaigns in the reading atlas
 
-The Atlas has a chapter-opening campaign overlay, separate from the existing selected-chapter scene pins. Orange is the French advance corridor, pale ochre its earlier reach, and dashed blue the withdrawal. These are schematic routes, **not territorial control polygons, historical borders, troop numbers or daily fronts**. Each military phase has an in-app evidence button.
+The Atlas has a chapter-opening campaign overlay, separate from the existing selected-chapter scene pins. Orange shows French advance, pale ochre its earlier route, and dashed blue the withdrawal. A separate purple overlay maps acquisitions and military occupation. Each military phase has an in-app evidence button.
 
 ## Reused historical material
 
@@ -17,7 +17,17 @@ Milestones are editorial readings of the public-domain Maude text in `dist/text.
 
 Covered: the principal 1805, 1806–07 and 1812 campaigns. The 1809 campaign is not reconstructed from the novel's brief references. Interludes assert no current army front; the completed 1805 route briefly remains as pale historical context. Late 1812 chapters retain the completed invasion/withdrawal; epilogues clear the military overlay.
 
-Country shapes in the existing geographic dataset are used only as a continuous land base. Their modern internal borders are suppressed. Period names are labels, not a new set of purportedly exact historical boundaries. The original geometry is unchanged for other app views.
+### Historical borders and territorial control
+
+The Europe control frames the acquisitions and occupations together. Dark purple shows the territory incorporated into the French Empire outside the 1790 French border. Medium purple shows mapped military occupation, including the portions of Iberia in the period source. Pale purple shows the earlier reach of a campaign after withdrawal or settlement. The sovereign borders of allied and client states remain visible.
+
+The geometries in `dist/territory-data.json` are an adaptation of **Chalstrey et al., Cliopatria, Seshat Global History Databank**, [pinned source revision](https://github.com/Seshat-Global-History-Databank/cliopatria/tree/5f433377139a6eeaeacbdc894b70f8805b72c8b5), under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The source zip has Git blob SHA `a1e7093b64990bf97cd3c31bda96de1cafed822c`. The polygons are clipped to Europe, simplified, and reclassified into sovereign borders, acquisitions and occupation. See [the dataset paper](https://doi.org/10.1038/s41597-025-04516-9) and [Fondation Napoléon's map of Europe in 1812](https://www.napoleon.org/histoire-des-2-empires/cartes/carte-de-leurope-en-1812).
+
+Cliopatria's French Empire polygons in the campaign years combine the imperial footprint with wartime control. The build script intersects those polygons with the contemporary Austrian, Prussian, Russian and Iberian footprints to separate occupation. The underlying borders of Austria and Russia are restored where the source cuts away occupied areas. The source omits much of post-Tilsit Prussia, so its outline is approximated from prewar Prussia east of the Elbe region, with ceded and annexed territories subtracted. The Tilsit view borrows nearby post-treaty boundaries. Interlude and Iberian layers use period snapshots. The application labels the date of the border snapshot beside the map.
+
+For the 1805, 1806–07, and 1812 advances, successive slices of the source occupation polygons are revealed using the previous-chapter campaign milestones. Their longitudinal limits are editorial estimates anchored to the advance and retreat locations. These are approximate occupation extents, with coverage limited by the source polygons. A battle site or passage along a route by itself does not imply area occupation.
+
+To regenerate, download `cliopatria.geojson.zip` from the pinned revision and run `python scripts/build-territory.py /path/to/cliopatria.geojson.zip` with Shapely installed.
 
 ## Verification
 
