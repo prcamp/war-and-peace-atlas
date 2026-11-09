@@ -15,8 +15,9 @@ if (typeof window !== 'undefined') applyTheme(initialTheme());
 function extendCharacters(extra) {
  for (const c of I.characters) c.wiki = extra.wiki[c.id];
  for (const c of extra.characters) {
-  if (I.characters.some(existing => existing.id === c.id)) continue;
-  I.characters.push(c);
+  const existing = I.characters.find(person => person.id === c.id);
+  if (existing) Object.assign(existing, c, {family:existing.family});
+  else I.characters.push(c);
   for (const hit of c.hits) {
    const ids = chapter(hit.chapter).characters;
    if (!ids.includes(c.id)) ids.push(c.id);

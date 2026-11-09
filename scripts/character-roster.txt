@@ -147,3 +147,4 @@ Zhilinski|Zhilinski
 Colonel Schubert|Schubert;Bogdanich
 General Armfeldt|Armfeldt
 General Friant|Friant
+Nikolushka|little Nicholas;young Nicholas

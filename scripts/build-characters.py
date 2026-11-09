@@ -26,6 +26,9 @@ for line in Path('scripts/character-roster.txt').read_text().splitlines():
     pattern = re.compile(r'(?<!\w)(?:' + '|'.join(re.escape(normalize(a)) for a in aliases) + r')(?!\w)')
     hits = []
     for chapter, paragraphs in texts:
+        # Before his birth, “young Nicholas” refers to Rostov, not Andrew’s son.
+        if name == "Nikolushka" and chapter < 77:
+            continue
         matches = [(i, len(pattern.findall(p))) for i, p in enumerate(paragraphs) if pattern.search(p)]
         if matches:
             hits.append({'chapter': chapter, 'paragraphs': [i for i, _ in matches],
@@ -33,7 +36,7 @@ for line in Path('scripts/character-roster.txt').read_text().splitlines():
     if not hits:
         print('Not indexed (no exact Maude alias):', name)
         continue
-    character_id = 'extra-' + re.sub('[^a-z0-9]+', '-', normalize(name)).strip('-')
+    character_id = 'nikolenka' if name == 'Nikolushka' else 'extra-' + re.sub('[^a-z0-9]+', '-', normalize(name)).strip('-')
     characters.append({'id': character_id, 'name': name, 'family': 'Extended cast',
                        'aliases': aliases, 'first': hits[0]['chapter'], 'hits': hits,
                        'wiki': links[character_id]})

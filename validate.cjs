@@ -130,3 +130,6 @@ vm.runInContext('state.horizon=38;',context);
 assert(vm.runInContext('networkSlice().nodes.includes("extra-bilibin")',context));
 assert(vm.runInContext('networkWorkspace()',context).includes('data-action="wiki-character"'));
 console.log('PASS: expanded roster source matches, chapter membership, locked identities and Wikipedia node actions.');
+
+assert.equal(data.index.characters.find(c=>c.id==='nikolenka').first,92);
+assert(!data.index.characters.find(c=>c.id==='nikolenka').hits.some(h=>h.chapter===25));
