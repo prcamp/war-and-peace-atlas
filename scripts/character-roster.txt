@@ -1,0 +1,149 @@
+# Display name | Maude aliases, separated by semicolons. Names verified against text.
+Stepan Adraksin|Adraksin
+Father Akinfi|Akinfi
+Yakov Alpatych|Alpatych
+Arakcheev|Arakcheev;Arakcheyev
+Baggovut|Bagovut
+Balaga|Balaga
+Barclay de Tolly|Barclay
+Barthélemy|Barthelemi
+Joseph Bazdeev|Joseph Alexeevich;Bazdeev
+Makar Alexeevich|Makar Alexeevich
+Beausset|Beausset
+Belliard|Belliard
+Bennigsen|Bennigsen
+Berthier|Berthier
+Count Kirill Bezukhov|Cyril Vladimirovich;Count Cyril
+Bilibin|Bilibin
+Bitski|Bitski
+Mary Bogdanovna|Mary Bogdanovna
+Bolkhovitinov|Bolkhovitinov
+Vincent Bosse|Vincent;Vesenny;Vesenya
+Broussier|Broussier
+Brozin|Brozin
+Agrafena Belova|Belova
+Campan|Campan
+Caulaincourt|Caulaincourt
+Chatrov|Chatrov
+Chichagov|Chichagov
+Clausewitz|Clausewitz
+Czartoryski|Czartoryski
+Danilo|Danilo
+Davout|Davout
+Dessalles|Dessalles
+Ideville|Ideville
+Dimmler|Dimmler
+Dmitri Onufrich|Dmitri Onufrich
+Mitenka|Mitenka
+Dolgorukov|Dolgorukov
+Marya Ivanovna Dolokhova|Marya Ivanovna
+Dron|Dron;Dronushka
+Dunyasha|Dunyasha
+Eykhen|Eykhen
+Fabvier|Fabvier
+Feoktist|Feoktist
+Empress Marya Fedorovna|Marya Fedorovna
+Archduke Ferdinand|Archduke Ferdinand
+Philip|Philip
+Emperor Francis|Emperor Francis
+Funke|Funke
+Prince Golitsyn|Golitsyn
+Gavril|Gavril
+Gerasim|Gerasim
+Gervais|Gervais
+Glinka|Glinka
+Grekov|Grekov
+Mary Hendrikhovna|Mary Hendrikhovna
+Khvostikov|Khvostikov
+Ilyin|Ilyin
+Iogel|Iogel
+Michael Ivanovich|Michael Ivanovich
+Julner|Julner
+Marya Lvovna Karagina|Marya Lvovna
+Archduke Charles|Archduke Charles
+Karp|Karp
+Andrey Sergeich Kaysarov|Andrey Sergeich
+Kaysarov|Kaysarov
+Kirsten|Kirsten
+Kochubey|Kochubey
+Komarov|Komarov
+Kondratevna|Kondratevna
+Konovnitsyn|Konovnitsyn
+Prince Kozlovski|Kozlovski
+Princess Aline Kuragina|Aline
+Mavra Kuzminichna|Mavra Kuzminichna
+Langeron|Langeron
+Larrey|Larrey
+Lauriston|Lauriston
+Lavrushka|Lavrushka
+Lazarev|Lazarev
+Likhachev|Likhachev
+Prince Lopukhin|Lopukhin
+Lorrain|Lorrain
+Lovayski|Lovayski
+General Mack|Mack
+Magnitski|Magnitski
+Makarin|Makarin
+Malasha|Malasha
+Anna Ignatevna Malvintseva|Malvintseva
+Princess Katishe|Katishe;Catiche
+Princess Sophie Mamontova|Sophie
+Matrena|Matrena
+Pelageya Danilovna Melyukova|Melyukov;Melyukova
+Métivier|Metivier
+Michaud|Michaud
+Uncle Michael Nikanorovich|Michael Nikanorovich
+Miloradovich|Miloradovich
+Mitka|Mitka
+Morel|Morel
+Abbé Morio|Morio;the abbe
+Vicomte Mortemart|Mortemart;the vicomte
+Mouton|Mouton
+Murat|Murat
+Nastasya Ivanovna|Nastasya Ivanovna
+Prince Nesvitski|Nesvitski
+Ney|Ney
+Novosiltsev|Novosiltsev
+Orlov-Denisov|Orlov-Denisov
+Ostermann-Tolstoy|Ostermann-Tolstoy;Osterman-Tolstoy
+Peronskaya|Peronskaya
+Katerina Petrovna|Katerina Petrovna
+Pfuel|Pfuel
+Platov|Platov
+Prokofy|Prokofy
+Raevski|Raevski
+Rapp|Rapp
+Prince Repnin|Repnin
+Praskovya Savishna|Praskovya Savishna
+Schmidt|Schmidt
+Madame Schoss|Schoss
+Shapovalov|Shapovalov
+Shcherbinin|Shcherbinin
+Shinshin|Shinshin
+Smolyaninov|Smolyaninov
+Stevens|Stevens
+Stolypin|Stolypin
+Sukhtelen|Sukhtelen
+Semen Chekmar|Chekmar
+Telyanin|Telyanin
+Theodosia|Theodosia
+Timokhin|Timokhin
+Toll|Toll
+Count Tolstoy|Count Tolstoy
+Tutolmin|Tutolmin
+Vereshchagin|Vereshchagin
+Prince Volkonski|Volkonski
+Vyazmitinov|Vyazmitinov
+Weyrother|Weyrother
+Willarski|Willarski
+Wintzingerode|Wintzingerode
+Wolzogen|Wolzogen
+Captain Yakovlev|Yakovlev
+Ermolov|Ermolov
+Zakhar|Zakhar
+Zdrzhinski|Zdrzhinski
+Zherkov|Zherkov
+Zhilinski|Zhilinski
+Colonel Schubert|Schubert;Bogdanich
+General Armfeldt|Armfeldt
+General Friant|Friant

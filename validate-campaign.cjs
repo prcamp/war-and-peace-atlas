@@ -1,9 +1,9 @@
 const fs=require('fs'),vm=require('vm'),assert=require('assert');
-const data=Object.fromEntries(['text','index','editorial','geography','locations','settings','territory-data'].map(n=>[n,JSON.parse(fs.readFileSync('dist/'+n+'.json','utf8'))]));
+const data=Object.fromEntries(['text','index','editorial','geography','locations','settings','territory-data','characters-extra'].map(n=>[n,JSON.parse(fs.readFileSync('dist/'+n+'.json','utf8'))]));
 const ctx=vm.createContext({console,localStorage:{getItem(){return null}},document:{addEventListener(){}},data});
-for(const f of ['workspace','campaign','territory','atlas'])vm.runInContext(fs.readFileSync('dist/'+f+'.js','utf8'),ctx);
+for(const f of ['preferences','workspace','campaign','territory','atlas'])vm.runInContext(fs.readFileSync('dist/'+f+'.js','utf8'),ctx);
 vm.runInContext(fs.readFileSync('dist/app.js','utf8').split("Promise.all(['text'")[0],ctx);
-vm.runInContext('T=data.text;I=data.index;E=data.editorial;G=data.geography;territoryData=data["territory-data"];L=data.locations;A=data.settings;',ctx);
+vm.runInContext('T=data.text;I=data.index;E=data.editorial;G=data.geography;territoryData=data["territory-data"];L=data.locations;A=data.settings;extendCharacters(data["characters-extra"]);',ctx);
 const at=h=>vm.runInContext(`campaignAt(${h})`,ctx);
 // Boundary examples independently matched to the chapter text, including backward navigation.
 for(const [h,id] of [[31,'before-1805'],[32,'ulm'],[38,'enns'],[39,'vienna'],[169,'interlude'],[170,'niemen'],[172,'niemen'],[173,'vilna'],[194,'vitebsk'],[195,'smolensk'],[209,'smolensk'],[210,'borodino'],[255,'moscow-outskirts'],[256,'moscow'],[292,'moscow'],[293,'leaving-moscow'],[327,'orsha'],[328,'campaign-ended'],[338,'epilogue'],[256,'moscow'],[255,'moscow-outskirts'],[170,'niemen'],[1,'before-1805']])assert.equal(at(h).id,id,`chapter ${h}`);

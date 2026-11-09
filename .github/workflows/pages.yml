@@ -15,6 +15,7 @@ jobs:
       - uses: actions/checkout@v6
       - name: Validate JavaScript and source data
         run: |
+          node --check dist/preferences.js
           node --check dist/app.js
           node --check dist/workspace.js
           node --check dist/atlas.js

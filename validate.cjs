@@ -1,14 +1,15 @@
 const fs=require('fs'),vm=require('vm'),assert=require('assert');
-const data=Object.fromEntries(['text','index','editorial','geography','locations','settings','territory-data'].map(n=>[n,JSON.parse(fs.readFileSync('dist/'+n+'.json','utf8'))]));
+const data=Object.fromEntries(['text','index','editorial','geography','locations','settings','territory-data','characters-extra'].map(n=>[n,JSON.parse(fs.readFileSync('dist/'+n+'.json','utf8'))]));
 assert.equal(data.text.chapters.length,365);assert.equal(data.text.books.length,17);assert(data.text.chapters.every(c=>c.paragraphs.length));
 for(const key of ['events','knowledge','relations'])for(const item of data.editorial[key]){const c=data.text.chapters[item.chapter-1];assert(c&&c.paragraphs[item.paragraph],JSON.stringify(item));}
 const context=vm.createContext({console,localStorage:{getItem(){return null}},document:{addEventListener(){}},data});
+vm.runInContext(fs.readFileSync('dist/preferences.js','utf8'),context);
 vm.runInContext(fs.readFileSync('dist/workspace.js','utf8'),context);
 vm.runInContext(fs.readFileSync('dist/campaign.js','utf8'),context);
 vm.runInContext(fs.readFileSync('dist/territory.js','utf8'),context);
 vm.runInContext(fs.readFileSync('dist/atlas.js','utf8'),context);
 vm.runInContext(fs.readFileSync('dist/app.js','utf8').split("Promise.all(['text'")[0],context);
-vm.runInContext('T=data.text;I=data.index;E=data.editorial;G=data.geography;territoryData=data["territory-data"];L=data.locations;A=data.settings;for(const p of L.places||[])I.places.push({...p,first:Math.min(...L.observations.filter(o=>o.place===p.id).map(o=>o.chapter)),hits:[],aliases:[]});',context);
+vm.runInContext('T=data.text;I=data.index;E=data.editorial;G=data.geography;territoryData=data["territory-data"];L=data.locations;A=data.settings;extendCharacters(data["characters-extra"]);for(const p of L.places||[])I.places.push({...p,first:Math.min(...L.observations.filter(o=>o.place===p.id).map(o=>o.chapter)),hits:[],aliases:[]});',context);
 for(const h of [1,2,28,94,163,260,365]){
  vm.runInContext(`state.horizon=${h};state.chapter=${h};`,context);
  for(const name of ['overview','readView','charactersView','connectionsView','timelineView','atlasView','knowledgeView','queryView','notebookView']){
@@ -108,3 +109,24 @@ vm.runInContext('bindAtlasMap',context)(mapSvg,{querySelectorAll(){return contro
 controls[0].onclick({stopPropagation(){}});assert.equal(+mapAttrs.viewBox.split(' ')[2],234);
 controls[2].onclick({stopPropagation(){}});assert.equal(mapAttrs.viewBox,'0 0 360 390');
 console.log('PASS: network zoom and fit; all nodes and every edge retained across layers and horizons.');
+// Expanded identities appear at their first exact Maude match, never before it.
+const extra=data['characters-extra'].characters;
+assert(extra.length>=140);
+assert.equal(new Set(data.index.characters.map(c=>c.id)).size,data.index.characters.length);
+for(const c of extra){
+ assert.equal(c.first,c.hits[0].chapter);
+ const aliases=c.aliases.map(a=>a.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase());
+ const pattern=new RegExp('(^|[^\\w])(?:'+aliases.map(a=>a.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')).join('|')+')($|[^\\w])');
+ for(const h of c.hits)for(const p of h.paragraphs){
+  const text=data.text.chapters[h.chapter-1].paragraphs[p].text.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+  assert(pattern.test(text),c.name+' source mismatch');
+  assert(data.text.chapters[h.chapter-1].characters.includes(c.id));
+ }
+ assert(c.wiki.startsWith('https://en.wikipedia.org/wiki/'));
+}
+vm.runInContext("state.horizon=1;filters.character='';filters.networkKind='relations';",context);
+assert(!vm.runInContext('networkSlice().nodes.includes("extra-bilibin")',context));
+vm.runInContext('state.horizon=38;',context);
+assert(vm.runInContext('networkSlice().nodes.includes("extra-bilibin")',context));
+assert(vm.runInContext('networkWorkspace()',context).includes('data-action="wiki-character"'));
+console.log('PASS: expanded roster source matches, chapter membership, locked identities and Wikipedia node actions.');
