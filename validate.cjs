@@ -114,6 +114,8 @@ const extra=data['characters-extra'].characters;
 assert(extra.length>=140);
 assert.equal(new Set(data.index.characters.map(c=>c.id)).size,data.index.characters.length);
 for(const c of extra){
+ if(c.hits.length<3){assert(!data.index.characters.some(person=>person.id===c.id));continue;}
+ if(c.id==='nikolai')continue; // Contextual surname checks follow separately.
  assert.equal(c.first,c.hits[0].chapter);
  const aliases=c.aliases.map(a=>a.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase());
  const pattern=new RegExp('(^|[^\\w])(?:'+aliases.map(a=>a.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')).join('|')+')($|[^\\w])');
@@ -133,3 +135,15 @@ console.log('PASS: expanded roster source matches, chapter membership, locked id
 
 assert.equal(data.index.characters.find(c=>c.id==='nikolenka').first,92);
 assert(!data.index.characters.find(c=>c.id==='nikolenka').hits.some(h=>h.chapter===25));
+
+// Rostov in Book 2 is Nicholas, including surname-only passages in XXI.
+vm.runInContext('state.horizon=49;state.chapter=49;',context);
+assert(vm.runInContext('character("nikolai").hits.some(h=>h.chapter===49&&h.paragraphs.includes(7))',context));
+assert(vm.runInContext('chapter(49).characters.includes("nikolai")',context));
+assert(vm.runInContext('linkedText("The cadet was Rostóv.",49)',context).includes('data-id="nikolai"'));
+assert(!vm.runInContext('linkedText("Count Rostóv",49)',context).includes('data-id="nikolai"'));
+assert(!vm.runInContext('linkedText("Pétya Rostóv",49)',context).includes('data-id="nikolai"'));
+assert(!vm.runInContext('linkedText("Rostóv",1)',context).includes('data-id="nikolai"'));
+assert(data.index.characters.every(c=>new Set(c.hits.map(h=>h.chapter)).size>=3));
+assert(vm.runInContext('readView()',context).includes('data-id="nikolai"'));
+console.log('PASS: three-chapter qualification; chapter 2.21 surname links; father/brother exclusions; reader membership.');

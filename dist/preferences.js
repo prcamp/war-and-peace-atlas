@@ -12,16 +12,20 @@ function initialTheme() {
 }
 if (typeof window !== 'undefined') applyTheme(initialTheme());
 
+const MIN_CHARACTER_CHAPTERS = 3;
 function extendCharacters(extra) {
  for (const c of I.characters) c.wiki = extra.wiki[c.id];
  for (const c of extra.characters) {
   const existing = I.characters.find(person => person.id === c.id);
   if (existing) Object.assign(existing, c, {family:existing.family});
   else I.characters.push(c);
-  for (const hit of c.hits) {
-   const ids = chapter(hit.chapter).characters;
-   if (!ids.includes(c.id)) ids.push(c.id);
-  }
+ }
+ // Qualify across the novel, but reveal only mentions at the reading horizon.
+ // Rebuild membership so cards, search, networks and the reader agree.
+ I.characters = I.characters.filter(c => new Set(c.hits.map(hit => hit.chapter)).size >= MIN_CHARACTER_CHAPTERS);
+ for (const ch of T.chapters) ch.characters = [];
+ for (const c of I.characters) for (const hit of c.hits) {
+  chapter(hit.chapter).characters.push(c.id);
  }
 }
 function wikiUrl(c) {
